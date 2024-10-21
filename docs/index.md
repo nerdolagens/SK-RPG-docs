@@ -1,10 +1,14 @@
-# Bem-vindo ao SK RPG
+---
+title: Bem-vindo ao Meu Site
+description: Uma breve descrição sobre o meu site.
+social:
+  cards:
+    title: "Cartão Social Personalizado"
+    description: "Esta é uma descrição que aparecerá nos cartões sociais."
+    background_color: blue # Change background color
 
-<div class="hero-section">
-  <div class="hero-text">
-    <h1>Documentação que simplesmente funciona</h1>
-    <p>Escreva sua documentação em Markdown e crie um site estático profissional em minutos - pesquisável, customizável, em mais de 60 idiomas.</p>
-    <a href="home/introduction" class="button primary">Get started</a>
-    <a href="https://github.com/nerdolagens/SK-RPG-docs?tab=readme-ov-file" class="button secondary">Learn more</a>
-  </div>
-</div>
+---
+
+# Bem-vindo!
+
+Conteúdo da sua página.
