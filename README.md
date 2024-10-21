@@ -1,2 +1,2 @@
 LINK DO SITE
-https://nerdolagens.github.io/SK-RPG-docs/home/introduction/
+https://nerdolagens.github.io/SK-RPG-docs
