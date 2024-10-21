@@ -1,5 +1,5 @@
 site_name: SK RPG
-site_url: https://nerdolagens.github.io/SK-RPG-docs/home/introduction/
+site_url: https://nerdolagens.github.io/SK-RPG-docs/
 nav:
   - Home:
       - introdução: "home/introduction.md"
@@ -14,7 +14,7 @@ nav:
           - Energia reversa: "cursedEnergy/subtecnicas/reversao.md"
           - Dominio simples: "cursedEnergy/subtecnicas/dominio.md"
           - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
-          - Tecnica de barreira: "cursedEnergy/subtecnicas/barreiras.md"
+          - Tecnica de barreira: "cursedEnergy/subtecnicas/barreira.md"
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
 theme:
   name: material
@@ -35,12 +35,18 @@ theme:
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  plugins:
+  - search          
+  - social
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/iurilugao01
+extra_css:
+  - assets/stylesheets/extra.css
+
