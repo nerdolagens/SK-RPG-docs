@@ -18,6 +18,7 @@ nav:
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
       - Tecnica inata:
           - Funcionamento: "cursedEnergy/tecnica inata/Funcionamento.md"
+          - Jogando Sem Tecnica: "cursedEnergy/tecnica inata/semTecnica.md"
 theme:
   name: material
   features:
