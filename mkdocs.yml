@@ -1,5 +1,5 @@
 site_name: SK RPG
-site_url: https://nerdolagens.github.io/SK-RPG-docs/home/
+site_url: https://nerdolagens.github.io/SK-RPG-docs/home/introduction/
 nav:
   - Home:
       - introdução: "home/introduction.md"
