@@ -19,5 +19,3 @@ caso voce imponha uma condicao onde o ataque especial nao pode ser usado para da
     rolar se estiver com a condicao lento
 
 ## trilhas
-
-###

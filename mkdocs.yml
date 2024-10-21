@@ -16,6 +16,8 @@ nav:
           - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
           - Tecnica de barreira: "cursedEnergy/subtecnicas/barreiras.md"
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
+      - Tecnica inata:
+          - Funcionamento: "cursedEnergy/tecnica inata/Funcionamento.md"
 theme:
   name: material
   features:
