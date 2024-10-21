@@ -1,14 +1,21 @@
 site_name: SK RPG
 site_url: https://nerdolagens.github.io/SK-RPG-docs/home/
 nav:
-  - Home: "home.md"
-  - Novas mecanicas: "newChanges.md"
-  - Itens novos: "/itens/"
-  - Energia amaldiçoada: "/cursedEnergy/"
-  - Classes:
-      - Combatente: "combatente.md"
-      - Especialista: "especialista.md"
-      - Ocultista: "ocultista.md"
+  - Home:
+      - introdução: "home/introduction.md"
+      - Novas mecanicas: "home/newChanges.md"
+  - Personagem:
+      - Classes:
+          - Combatente: "character/classes/combatente.md"
+          - Especialista: "character/classes/especialista.md"
+          - Ocultista: "character/classes/ocultista.md"
+  - Energia amaldiçoada:
+      - Subtecnicas:
+          - Energia reversa: "cursedEnergy/subtecnicas/reversao.md"
+          - Dominio simples: "cursedEnergy/subtecnicas/dominio.md"
+          - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
+          - Tecnica de barreira: "cursedEnergy/subtecnicas/barreiras.md"
+          - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
 theme:
   name: material
   features:
@@ -17,6 +24,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.footer
+    - navigation.tabs
 
   palette:
     # Palette toggle for light mode
