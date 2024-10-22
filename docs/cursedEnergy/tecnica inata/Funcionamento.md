@@ -169,9 +169,7 @@ caso o jogador tente criar a tecnica inexplorada diversos cuidados devem ser tom
     tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original  
     com a classe dela mas pode combinar a tecnica inexplorada com suas classes
 
-    por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao  
-    despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo  
-    especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
+    por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao  despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo  especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
 
 ## Tabela Balanciamento
 
