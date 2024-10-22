@@ -2,7 +2,8 @@ site_name: SK RPG
 site_url: https://nerdolagens.github.io/SK-RPG-docs/
 nav:
   - Home:
-      - introdução: "home/introduction.md"
+      - introdução: "index.md"
+      - Conceitos: 'home/concepts.md'
       - Novas mecanicas: "home/newChanges.md"
   - Personagem:
       - Classes:
@@ -17,7 +18,7 @@ nav:
           - Tecnica de barreira: "cursedEnergy/subtecnicas/barreira.md"
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
       - Tecnica inata:
-          - Funcionamento: "cursedEnergy/tecnica inata/Funcionamento.md"
+          - Como as tecnicas funcionam: "cursedEnergy/tecnica inata/Funcionamento.md"
           - Jogando Sem Tecnica: "cursedEnergy/tecnica inata/semTecnica.md"
 theme:
   name: material
