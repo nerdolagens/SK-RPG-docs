@@ -92,7 +92,7 @@ nao e possivel prever ou escrever todos os efeitos que da pra aumentar com condi
 
 ## Evolução de Tecnicas
 
-#### Expansao de dominio
+### Expansao de dominio
 
 uma expansao de dominio possui 2 efeitos, a amplificacao da tecnica que torna todos os ataques da tecnica mais fortes ou mais efetivos, o acerto garantido faz com que o ataque nunca falhe e tenha 100% de chance de acerto, por conta disso tecnicas usadas dentro da expansao que necessitem de uma rolagem do usuario ou do alvo deixam de ser necessarias, a fins de balanceamento o mestre pode impor que alguns ataques necessitem de uma rolagem, porem existem metodos de contra-atacar o acerto garantido, exemplos de efeitos da amplificacao de tecnica, escolha 3 efeitos de amplifcacao abaixo para sua expansao:
 
@@ -153,6 +153,25 @@ Dominio imperfeito - voce ainda nao adquiriu sua expansao de dominio mas entende
 Amplificacao de dominio
 custo: 5PE (3 para sustentar e acao completa)
 amplificar um dominio traz uma parte do dominio inato para a realidade, isso faz com que qualquer tecnica que toque o usuario seja dissipada instantaneamente porem isso tambem o impede de usar tecnicas amaldicoadas, nao e possivel usar uma amplificacao de dominio se estiver dentro de um dominio ou se estiver “amaldicoado” de alguma forma a amplificacao de dominio tambem pode ser usada para “furar” a barreira de um dominio pelo lado de fora (teste de ocultismo contra DT de ritual) mas para fazer isso pelo lado de dentro e mais dificil (confronto de testes de ocultismo)
+
+### Tecnica Inexplorada
+
+uma tecnica inexplorada consiste em algo presente no talento inato de um feiticeiro jujutsu mas que ele nunca soube ou so desenvolveu agora, existem dois tipo de tecnica inexplorada a primeira envolve uma funcao adicional de sua tecnica, uma especie de atualizacao do conceito dela ou uma mudanca no comportamento, por exemplo uma tecnica amaldicoada que envolva a capacidade de criar explosoes poderia ter uma tecnica inexplorada que permita explodir o tempo, o segundo tipo envolve uma segunda tecnica amaldicoada completamente diferente da tecnica original do feiticeiro, por exemplo um feiticeiro que desperotu uma tecnica de fogo mas tem um ancestral que possuia uma tecnica de tempo, este feiticeiro pode ter como tecnica inexplorada algo que envolva o tempo, sobre qual das duas sera a tecnica inexplorada vai a criterio do mestre ou do jogador sobre o que combinar mais
+
+normalmente o mestre cria a tecnica inexplorada para o jogador pois ja que o personagem nao tem conhecimento de sua tecnica inexplorada fica mais interessante pro roleplay o mestre criar ela sem o conhecimento do jogador, claro isto nao e uma regra apenas uma recomendacao, o jogador tambem pode dar ideias para ter aquilo que ele julga combinar mais
+
+caso o jogador tente criar a tecnica inexplorada diversos cuidados devem ser tomados pois se ele tiver 100% do controle sobre o que sera a tecnica inexplorada ele pode criar o que quiser, desde uma tecnica para fazer um combo quebrado ou algo apelao como copiar outras tecnicas, mais um motivo para deixar a criacao da tecnica inexplorada pro mestre...
+
+* MECANICA
+
+    mecanicamente falando uma tecnica inexplorada fornece um novo conceito a sua tecnica ou uma segunda tecnica  
+    amaldicoada mas em todos os casos o feiticeiro tem um leque de habilidades mais amplo, em alguns casos a  
+    tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original  
+    com a classe dela mas pode combinar a tecnica inexplorada com suas classes
+
+    por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao  
+    despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo  
+    especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
 
 ## Tabela Balanciamento
 
