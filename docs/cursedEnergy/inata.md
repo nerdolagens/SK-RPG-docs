@@ -1,12 +1,18 @@
-como balancear uma tecnica?
+# o que e uma tecnica inata?
 
-ate dado momento eu considero 2 fatores para saber o quao poderosa uma tecnica e, o primeiro e seu consumo de PE, quando voce diz o consumo de PE da sua tecnica eu irei buscar rituais ou outras coisas dentro do sistema do ordem paranormal com consumo de PE similar e usar-las como uma referencia, o segundo fator sao as condicoes e outros aspectos como duracao, alcance, efeitos, etcalguns rituais do ordem tem algum pre-requisito como circulo ou afinidade por isso nao posso simplesmente dar o mesmo dano e efeito que um ritual fornece para uma tecnica so por que ambas sao similares, caso as condicoes da sua tecnica estejam proximas do que o ritual tem de condicao ai sim eu usarei ele como uma referencia
+a energia amaldicoada sozinha nao serve pra muita coisa, por conta disso e necessario uma tecnica que e uma forma de se moldar a energia para sua aplicacao para as demais situacoe que podem variar das mais simples como uma tatica jujutsos ate as mais complexas tecnicas inatas
 
-caso sua tecnica seja similar a um ritual mas ela consome mais PE ou possui mais condicoes voce pode apenas deixar os efeitos um pouco mais fortes, para facilitar balanceamentos tente criar tecnicas com custo de PE padronizado como: 1, 3, 6, 10caso haja uma diferenca de 2PE ou mais voce pode dar uma leve fortalecida
+para se criar uma tecnica e necessario definir o seu conceito e suas capacidades, o conceito pode ser literalmente qualquer coisa mas uma tecnica nao pode fazer nada que esteja fora de seu conceito mas existem formas do conceito de uma tecnica evoluir que voce encontrara mais abaixo desse arquivo, alem do conceito e necessario definir as classes de uma tecnica e isso e feito atravez das classes de tecnica que sao nessa ordem: 
 
-voce tambem pode usar como referencia o custo de PE a complexidade de sua tecnica usando de referencia o proprio anime jujutsu kaisen, a tecnica de satoru gojou "vermelho" custaria mais PE do que a tecnica do "azul" pois ela usa reversao de feitico logo se torna mais complexa, utilizar mais uma classe de tecnica no mesmo ataque tambem conta como maior complexidade
+        1. Aprimorador
+        2. Transmutador
+        3. Conjurador
+        4. Especialista
+        5. Manipulador
+        6. Emissor
 
-caso sua tecnica exceda os 20PE converse com o mestre do rpg pois a partir daqui as tecnicas tem uma maior chance de quebrar o sistema entao em prol do divertimento dos players nao tente quebrar o sistema com tecnicas com custos devastadores de PE ou muitas condicoes, se voce quer criar algo que consuma muito PE ou muito condicional tente ser criativo sobre o que esse ataque faz de diferente e nao apenas "causar mais dano"
+a ordem dessas
+
 
 ### CONDICOES DA TECNICA
 

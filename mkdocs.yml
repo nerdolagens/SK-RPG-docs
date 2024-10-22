@@ -11,15 +11,15 @@ nav:
           - Especialista: "character/classes/especialista.md"
           - Ocultista: "character/classes/ocultista.md"
   - Energia amaldiçoada:
-      - Subtecnicas:
+        - Tecnica inata: "cursedEnergy/inata.md"
+        - Jogando Sem Tecnica: "cursedEnergy/semTecnica.md"
+        - Subtecnicas: 
           - Energia reversa: "cursedEnergy/subtecnicas/reversao.md"
           - Dominio simples: "cursedEnergy/subtecnicas/dominio.md"
           - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
           - Tecnica de barreira: "cursedEnergy/subtecnicas/barreira.md"
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
-      - Tecnica inata:
-          - Como as tecnicas funcionam: "cursedEnergy/tecnica inata/Funcionamento.md"
-          - Jogando Sem Tecnica: "cursedEnergy/tecnica inata/semTecnica.md"
+
 theme:
   name: material
   features:
@@ -49,5 +49,4 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/iurilugao01
-extra_css:
-  - assets/stylesheets/extra.css
+
