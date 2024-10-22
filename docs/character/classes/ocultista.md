@@ -92,4 +92,3 @@ voce se aperfeicoou em desenvolver suas habilidades jujutsu aprimorando sua prop
 
     NEX 99% dominio absoluto
     alem de receber um poder de subtecnica assim como todas as outras habilidades dessa trilha seu refinamento de energia chega a outro patamar, recebe +15 em ocultismo
-### conduite
