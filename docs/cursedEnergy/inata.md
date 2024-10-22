@@ -11,43 +11,21 @@ para se criar uma tecnica e necessario definir o seu conceito e suas capacidades
         5. Manipulador
         6. Emissor
 
-a ordem dessas
+a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar, veja uma descricao breve das classes:
 
-
-### CONDICOES DA TECNICA
-
-dentro do universo desse rpg as condicoes sao vistas como um jeito de voce criar uma fraqueza em sua propria tecnica para que o equilibrio a torne mais forte, em termos mecanicos as condicoes deixam sua tecnica mais dificil de ser usada mas em troca disso ela recebe um aumento de poder sem a necessidade de pagar mais PE, mas por nem todos serem iguais algumas condicoes afetam mais uma pessoa do que outra, logo uma mesma condicao pode dar beneficios diferentes para duas pessoas
-
-para facilitar tudo as condicoes sao ranquedas de fraca a perigosa, quanto mais dificil for atender as condicoes mais CP (condition points) ela forncece, os CPs podem ser convertidos por beneficios como dano, efeitos, etc, vale lembrar tambem que quando uma habilidade recebe uma condicao todas as tecncias derivadas dessa condicao herdam as mesmas condicoes e mesma quantidade de CP mas nao necessariamente os mesmos beneficios, veja a tabela de condicao:
-
-condicao fraca | algo facil de se executar | 0.5CP
-condicao media | algo moderado | 1CP
-condicao forte | algo que pode ser perigoso | 2CP
-condicao perigosa | algo que pode te matar ou trazer grandes maleficios | 5CP
-
-quando as condicoes nao sao atendidas sua tecncia simplesmente nao funciona porem voce pode trocar isso por algo como: "se a condicao nao for atendida eu morro" isso ira tornar a condicao mais perigosa voce tambem pode aplicar restricoes na sua tecnica, nao para tornar-la mais forte e sim para ficar mais barata de se usar, as restricoes seguem os mesmos padroes das condicoes
-
-algumas tecnicas podem possuir um conceito muito complexo ou apelao e acabam sendo muito custosas ou depedendo de condicoes para funcionar como por exemplo uma tecnica para copiar outras ou a manipulacao de vetores da familia ambrosius
-
-veja a tabela de conversao de pontos, os efeitos podem ser acumulados mas como ja foi dito antes nesse arquivo tente nao quebrar o sistema com condicoes apelonas
-
-    +1d em dano | 0.5CP | aumento de efeito     | 1 a 3CP
-    +1 na DT    | 1CP   | aumento de duracao    | 1 a 5CP
-    +2 ou +5    | 1 a 3CP | aumento de area ou alcance | 2CP
-
-nao e possivel prever ou escrever todos os efeitos que da pra aumentar com condicoes, estes sao apenas para ter uma referencia mas como ja foi dito antes nao quebre o sistema acumulando condicoes voce tambem pode inventar seus proprios efeitos adicionais por condicoes
-
-* habilidade de aprimorador
+### habilidade de aprimorador
 
     esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, o custo da aprimoracao e influenciado pelo ambiente e pelo grau de complexidade do que vai ser aprimorado mas assim como a transmutacao mais energia pode causar mais estrago
 
-* habilidade de transmutador
+    existem casos onde uma subclasse de aprimorador pode ser escolhida cuja sua habilidade seja aprimorar a propria tecnica, por exemplo uma tecnica de transmutacao de eletricidade com subclasse de aprimoracao de eletricidade, quando este for o caso a tecnica recebe um buff geral pro que se condiz com o aprimoramento mas de forma resumida, se for dano aumenta em +10, se for um bonus em algum tipo de teste, defesa ou RD recebe +5, se for um bonus de deslocamento aumenta em +6m e por fim se for um bonus na DT ela aumenta em +2
+
+### habilidade de transmutador
 
     a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, caso a tecnica de manipulacao seja do tipo elemental ou energetica considere que quanto mais energia colocada no ataque mais poderosa sera a tecnica entao tambem pode se dizer que a transmutacao pode ser a classe mais custosa
 
     caso a transmutacao nao seja de energia para algo e sim algo como tranmutar o proprio corpo oara ter asas, considere que quanto maior a complexidade da transformacao mais custosa ela é, a duracao dessas transmutacoes normalmente e cena
 
-* habilidades de conjuracao:
+### habilidades de conjuracao:
 
     este tipo de tecnica recebeu um espaco especial na homebrew por ser um tipo de tecnica que se comporta de uma forma muito diferente das demais, uma tecnica de conjuracao envolver conjurar algo como uma espada ou uma arma como ja foi falado, para balancear uma habilidade de conjuracao 2 coisas devem ser consideradas, seu conceito e suas capacidades, caso o conceito de uma tecnica esteja associada a invocacao de armas defina que tipo de arma sera invocada podendo definir algo como: armas de fogo, que cortam, medievais, etc, a categoria e o que ira definir o custo da invocacao veja abaixo:
 
@@ -94,7 +72,30 @@ nao e possivel prever ou escrever todos os efeitos que da pra aumentar com condi
 
     devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
 
-    caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao
+    caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao 
+
+### CONDICOES DA TECNICA
+
+dentro do universo desse rpg as condicoes sao vistas como um jeito de voce criar uma fraqueza em sua propria tecnica para que o equilibrio a torne mais forte, em termos mecanicos as condicoes deixam sua tecnica mais dificil de ser usada mas em troca disso ela recebe um aumento de poder sem a necessidade de pagar mais PE, mas por nem todos serem iguais algumas condicoes afetam mais uma pessoa do que outra, logo uma mesma condicao pode dar beneficios diferentes para duas pessoas
+
+para facilitar tudo as condicoes sao ranquedas de fraca a perigosa, quanto mais dificil for atender as condicoes mais CP (condition points) ela forncece, os CPs podem ser convertidos por beneficios como dano, efeitos, etc, vale lembrar tambem que quando uma habilidade recebe uma condicao todas as tecncias derivadas dessa condicao herdam as mesmas condicoes e mesma quantidade de CP mas nao necessariamente os mesmos beneficios, veja a tabela de condicao:
+
+condicao fraca | algo facil de se executar | 0.5CP
+condicao media | algo moderado | 1CP
+condicao forte | algo que pode ser perigoso | 2CP
+condicao perigosa | algo que pode te matar ou trazer grandes maleficios | 5CP
+
+quando as condicoes nao sao atendidas sua tecncia simplesmente nao funciona porem voce pode trocar isso por algo como: "se a condicao nao for atendida eu morro" isso ira tornar a condicao mais perigosa voce tambem pode aplicar restricoes na sua tecnica, nao para tornar-la mais forte e sim para ficar mais barata de se usar, as restricoes seguem os mesmos padroes das condicoes
+
+algumas tecnicas podem possuir um conceito muito complexo ou apelao e acabam sendo muito custosas ou depedendo de condicoes para funcionar como por exemplo uma tecnica para copiar outras ou a manipulacao de vetores da familia ambrosius
+
+veja a tabela de conversao de pontos, os efeitos podem ser acumulados mas como ja foi dito antes nesse arquivo tente nao quebrar o sistema com condicoes apelonas
+
+    +1d em dano | 0.5CP | aumento de efeito     | 1 a 3CP
+    +1 na DT    | 1CP   | aumento de duracao    | 1 a 5CP
+    +2 ou +5    | 1 a 3CP | aumento de area ou alcance | 2CP
+
+nao e possivel prever ou escrever todos os efeitos que da pra aumentar com condicoes, estes sao apenas para ter uma referencia mas como ja foi dito antes nao quebre o sistema acumulando condicoes voce tambem pode inventar seus proprios efeitos adicionais por condicoes
 
 ## Evolução de Tecnicas
 
