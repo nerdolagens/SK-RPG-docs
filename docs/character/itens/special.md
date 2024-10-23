@@ -17,3 +17,7 @@ rara. itens mais poderosos e que podem fazer a diferenca em um combate, seus mat
 lendaria. os objetos mais poderosos e bem guardados da ordem, sendo usados pouquissimas vezes e em apenas em casos de extrema necessidade chegando a um ponto que essas armas sempre estao nos armazens da ordem e raramente nos bolsos de um feiticeiro mesmo aqueles de grau especial, essas armas foram feitas de material de feiticeiros extramamente poderosos ou passaram por processos de forja muito complexos ou recebem emocoes negativas de uma parte da populacao mundial
 
 como ja se deve imaginar para usar itens de grua especial e necessario muita habilidade, todos os itens de grau especial possuem algum tipo de requisito, podendo ser um grau de treinamento em uma pericia ou algo mais especifico
+
+## Amplificador de Arquimedes
+
+![Amplificador de Arquimedes](/assets/img/amplificador.jpg)
