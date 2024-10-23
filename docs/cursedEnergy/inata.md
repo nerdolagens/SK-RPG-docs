@@ -11,17 +11,17 @@ para se criar uma tecnica e necessario definir o seu conceito e suas capacidades
         5. Manipulador
         6. Emissor
 
-a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar, veja uma descricao breve das classes:
+a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar e definir qual sera a habilidade dessa classe envolvendo o ceonceito da tecnica, se for bem explorada uma unica habilidade pode ser usada para varios propositos diferentes, veja uma descricao breve das classes:
 
 ### habilidade de aprimorador
 
-    esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, o custo da aprimoracao e influenciado pelo ambiente e pelo grau de complexidade do que vai ser aprimorado mas assim como a transmutacao mais energia pode causar mais estrago
+    esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, a aprimoracao permite uma melhoria ou uma fortificacao de algo, vale lembrar que nao e possivel controlar aquilo que e aprimorado podendo apenas controlar a potencia da aprimoracao 
 
     existem casos onde uma subclasse de aprimorador pode ser escolhida cuja sua habilidade seja aprimorar a propria tecnica, por exemplo uma tecnica de transmutacao de eletricidade com subclasse de aprimoracao de eletricidade, quando este for o caso a tecnica recebe um buff geral pro que se condiz com o aprimoramento mas de forma resumida, se for dano aumenta em +10, se for um bonus em algum tipo de teste, defesa ou RD recebe +5, se for um bonus de deslocamento aumenta em +6m e por fim se for um bonus na DT ela aumenta em +2
 
 ### habilidade de transmutador
 
-    a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, caso a tecnica de manipulacao seja do tipo elemental ou energetica considere que quanto mais energia colocada no ataque mais poderosa sera a tecnica entao tambem pode se dizer que a transmutacao pode ser a classe mais custosa
+    a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, consis
 
     caso a transmutacao nao seja de energia para algo e sim algo como tranmutar o proprio corpo oara ter asas, considere que quanto maior a complexidade da transformacao mais custosa ela é, a duracao dessas transmutacoes normalmente e cena
 
