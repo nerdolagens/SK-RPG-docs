@@ -38,7 +38,13 @@ Após um flash negro, você desperta a besta dentro de você, um potencial nunca
 para cada kokusen acertado dentro do combo voce recebe +3 em ataque, defesa, RD e dano e caso acerte um quinto kokusen voce recebe +1 no multiplicador de critico, o efeito dura ate o final do combate e quando ele se encerra voce recebe pontos de exaustao igual a quantidade de kokusen acertados e caso este valor ultrapasse 5 voce entrara em coma e so acordara apos um tempo, depedendo de quantos kokusens foram acertados este tempo pode se extender.....
 pre-requisito: afinidade com kokusen
 
+## Furia da tempestade
+
+ao invez de aumentar em +3 por kokusen os efeitos do despertado, aumenta em +5
+
+enquanto esiver no modo despertado
+
 ## ALEM DO RAIO
 
-seus raios negros atingiram outro nivel, onde eles acertam alem do corpo fisico, seu kokusen causa 10 dano na alma
+seus raios negros atingiram outro nivel, onde eles acertam alem do corpo fisico, seu kokusen causa 3 vezes seu multiplicador de critico de dano na alma
 pre-requisito: afinidade com kokusen, NEX 90%
