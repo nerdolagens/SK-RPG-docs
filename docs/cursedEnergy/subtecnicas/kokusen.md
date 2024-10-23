@@ -40,9 +40,7 @@ pre-requisito: afinidade com kokusen
 
 ## Furia da tempestade
 
-ao invez de aumentar em +3 por kokusen os efeitos do despertado, aumenta em +5
-
-enquanto esiver no modo despertado
+ao invez de aumentar em +3 por kokusen os efeitos do despertado, aumenta em +5 enquanto esiver no modo despertado
 
 ## ALEM DO RAIO
 
