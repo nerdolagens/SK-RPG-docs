@@ -15,6 +15,7 @@ nav:
           - Itens de contrato: "character/itens/demonItens.md"
           - Armamento de grau especial: "character/itens/special.md"
       - Fatores de nascença:
+          - Comuns: "character/factors/commons.md"
           - Feto amaldiçoado: "character/factors/feto.md"
           - Restringido: "character/factors/restringido.md"
           - Condennado: "character/factors/condenado.md"
