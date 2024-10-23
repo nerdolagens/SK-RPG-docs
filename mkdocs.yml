@@ -3,17 +3,25 @@ site_url: https://nerdolagens.github.io/SK-RPG-docs/
 nav:
   - Home:
       - introdução: "index.md"
-      - Conceitos: 'home/concepts.md'
+      - Conceitos: "home/concepts.md"
       - Novas mecanicas: "home/newChanges.md"
   - Personagem:
       - Classes:
           - Combatente: "character/classes/combatente.md"
           - Especialista: "character/classes/especialista.md"
           - Ocultista: "character/classes/ocultista.md"
+      - Inventario:
+          - Itens novos: "character/itens/newItens.md"
+          - Itens de contrato: "character/itens/demonItens.md"
+          - Armamento de grau especial: "character/itens/special.md"
+      - Fatores de nascença:
+          - Feto amaldiçoado: "character/factors/feto.md"
+          - Restringido: "character/factors/restringido.md"
+          - Condennado: "character/factors/condenado.md"
   - Energia amaldiçoada:
-        - Tecnica inata: "cursedEnergy/inata.md"
-        - Jogando Sem Tecnica: "cursedEnergy/semTecnica.md"
-        - Subtecnicas: 
+      - Tecnica inata: "cursedEnergy/inata.md"
+      - Jogando Sem Tecnica: "cursedEnergy/semTecnica.md"
+      - Subtecnicas:
           - Energia reversa: "cursedEnergy/subtecnicas/reversao.md"
           - Dominio simples: "cursedEnergy/subtecnicas/dominio.md"
           - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
@@ -49,4 +57,3 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/iurilugao01
-
