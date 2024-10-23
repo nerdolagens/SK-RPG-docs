@@ -88,7 +88,7 @@ voce se aperfeicoou em desenvolver suas habilidades jujutsu aprimorando sua prop
     voce recebe uma classe de tecnica e um poder de subtecnica a sua escolha
 
     NEX 65% mestre feiticeiro
-    voce recebe uma afinidade adicional com uma subtecnica e um poder de subtecnica
-
+    voce pode criar e usar tecnicas de um nivel acima do nivel atual de tecnica, alem disso recebe um poder de subtecnica adicional
+    
     NEX 99% dominio absoluto
     alem de receber um poder de subtecnica assim como todas as outras habilidades dessa trilha seu refinamento de energia chega a outro patamar, recebe +15 em ocultismo
