@@ -2,7 +2,7 @@
 
 a energia amaldicoada sozinha nao serve pra muita coisa, por conta disso e necessario uma tecnica que e uma forma de se moldar a energia para sua aplicacao para as demais situacoe que podem variar das mais simples como uma tatica jujutsos ate as mais complexas tecnicas inatas
 
-para se criar uma tecnica e necessario definir o seu conceito e suas capacidades, o conceito pode ser literalmente qualquer coisa mas uma tecnica nao pode fazer nada que esteja fora de seu conceito mas existem formas do conceito de uma tecnica evoluir que voce encontrara mais abaixo desse arquivo, alem do conceito e necessario definir as classes de uma tecnica e isso e feito atravez das classes de tecnica que sao nessa ordem: 
+para se criar uma tecnica e necessario definir o seu conceito e suas capacidades, o conceito pode ser literalmente qualquer coisa mas uma tecnica nao pode fazer nada que esteja fora de seu conceito mas existem formas do conceito de uma tecnica evoluir que voce encontrara mais abaixo desse arquivo, alem do conceito e necessario definir as classes de uma tecnica e isso e feito atravez das classes de tecnica que sao nessa ordem:
 
         1. Aprimorador
         2. Transmutador
@@ -13,66 +13,70 @@ para se criar uma tecnica e necessario definir o seu conceito e suas capacidades
 
 a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar e definir qual sera a habilidade dessa classe envolvendo o ceonceito da tecnica, se for bem explorada uma unica habilidade pode ser usada para varios propositos diferentes, veja uma descricao breve das classes:
 
-### habilidade de aprimorador
+## habilidade de aprimorador
 
-    esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, a aprimoracao permite uma melhoria ou uma fortificacao de algo, vale lembrar que nao e possivel controlar aquilo que e aprimorado podendo apenas controlar a potencia da aprimoracao 
+esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, a aprimoracao permite uma melhoria ou uma fortificacao de algo, vale lembrar que nao e possivel controlar aquilo que e aprimorado podendo apenas controlar a potencia da aprimoracao
 
-    existem casos onde uma subclasse de aprimorador pode ser escolhida cuja sua habilidade seja aprimorar a propria tecnica, por exemplo uma tecnica de transmutacao de eletricidade com subclasse de aprimoracao de eletricidade, quando este for o caso a tecnica recebe um buff geral pro que se condiz com o aprimoramento mas de forma resumida, se for dano aumenta em +10, se for um bonus em algum tipo de teste, defesa ou RD recebe +5, se for um bonus de deslocamento aumenta em +6m e por fim se for um bonus na DT ela aumenta em +2
+existem casos onde uma subclasse de aprimorador pode ser escolhida cuja sua habilidade seja aprimorar a propria tecnica, por exemplo uma tecnica de transmutacao de eletricidade com subclasse de aprimoracao de eletricidade, quando este for o caso a tecnica recebe um buff geral pro que se condiz com o aprimoramento mas de forma resumida, se for dano aumenta em +10, se for um bonus em algum tipo de teste, defesa ou RD recebe +5, se for um bonus de deslocamento aumenta em +6m e por fim se for um bonus na DT ela aumenta em +2
 
-### habilidade de transmutador
+## habilidade de transmutador
 
-    a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, consis
+a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, consiste em transformar uma coisa em outra podendo ser a propria energia amaldicoada do feiticeiro ou materia fisica do ambiente, por padrao coisas feitas da energia amaldicoada de alguem sao controlaveis por ela
 
-    caso a transmutacao nao seja de energia para algo e sim algo como tranmutar o proprio corpo oara ter asas, considere que quanto maior a complexidade da transformacao mais custosa ela é, a duracao dessas transmutacoes normalmente e cena
+existe um truque dentro da tecnica de transmutacao que transformam a energia amaldicoada do conjurador em algo onde a energia nao e transformada ate o momento exato do ataque, como a energia amaldicoada em sua forma pura so pode ser enxergada usando percepcao paranormal um personagem que sofra um ataque usando esse truque pode receber-lo desprevenido
 
-### habilidades de conjuracao:
+## habilidades de conjuracao:
 
-    este tipo de tecnica recebeu um espaco especial na homebrew por ser um tipo de tecnica que se comporta de uma forma muito diferente das demais, uma tecnica de conjuracao envolver conjurar algo como uma espada ou uma arma como ja foi falado, para balancear uma habilidade de conjuracao 2 coisas devem ser consideradas, seu conceito e suas capacidades, caso o conceito de uma tecnica esteja associada a invocacao de armas defina que tipo de arma sera invocada podendo definir algo como: armas de fogo, que cortam, medievais, etc, a categoria e o que ira definir o custo da invocacao veja abaixo:
+este tipo de tecnica recebeu um espaco especial na homebrew por ser um tipo de tecnica que se comporta de uma forma muito diferente das demais, uma tecnica de conjuracao envolver conjurar algo como uma espada ou uma arma como ja foi falado, para balancear uma habilidade de conjuracao 2 coisas devem ser consideradas, o conceito da conjuracao ira definir o que vai ser conjurado, podendo ser um shikigami simples ou objetos fisicos como armas, caso a conjuracao seja de arma seu tamanho e categoria influenciam no custo, veja as tabelas abaixo:
 
-    0 - 1PE
-    I - 2PE
-    II - 4PE
-    III - 6PE
-    IV - 12PE
+- Categoria
 
-    este e o caso de uma invocacao de arma com uma tecnica que consiste invocar uma grande variedade de armas, caso sua tecnica seja do tipo que invoca apenas uma arma especifica voce recebe 1CP padrao para as habilidades de invocacao, caso sua quantidade de invocacoes tambem seja 1 voce recebe +1CP
+        0 - 1PE
+        I - 2PE
+        II - 4PE
+        III - 6PE
+        IV - 12PE
 
-    a conversao de CP para armas invocadas funciona de um modo um pouco diferente, cada 1CP equivale uma modificacao, voce tambem pode realizar um contrato com um demonio para que esta arma seja amaldicoada
+- Tamanho
 
-    caso sua tecnica de invocador envolva um shikigami simples ela funciona de modo diferente, o custo para invocar o shikigami e sempre seu pe por turno e ele possui apenas uma habilidade podendo ser algo como um estomago para carregar armas ou uma capacidade de curar usando energia reversa e assim como shikigamis normais caso ele morra levara 24 horas para ser invocado novamente, testes realizados com esse shikigami usa as pericias do dono dele e diferente dos demais shikigamis e ele e pequeno
+        Minúsculo: um anel ou um ratinho - 1PE
+        Pequeno Cão ou uma mochila - 2PE
+        Médio: Humano adulto ou uma moto -4PE
+        Grande: cavalo ou um carro - 8PE
+        Enorme: Elefante ou um caminhao - 16PE
+        Colossal: baleia ou um onibus - 32PE
 
-    FICHA:
-    PV 5 + PRE | 1 + PRE por nivel
-    defesa: 10 + PRE
+este e o caso de uma invocacao de arma com uma tecnica que consiste invocar uma grande variedade de armas, caso sua tecnica seja do tipo que invoca apenas uma arma especifica voce recebe 1CP padrao para as habilidades de invocacao, caso sua quantidade de invocacoes tambem seja 1 voce recebe +1CP
 
-    tambem pode haver o caso de sua tecnica focar em invocar objetos que nao necesserariamente sao armas, nestes casos considere o tamanho e massa do objeto para o custo de sua invocacao veja a tabela:
+a conversao de CP para armas invocadas funciona de um modo um pouco diferente, cada 1CP equivale uma modificacao, voce tambem pode realizar um contrato com um demonio para que esta arma seja amaldicoada
 
-    Minúsculo: uma pistola ou um ratinho - 1PE
-    Pequeno Cão ou uma mochila - 3PE
-    Médio: Humano adulto ou uma moto - 5PE
-    Grande: cavalo ou um carro - 10PE
-    Enorme: Elefante ou um caminhao - 15PE
-    Colossal: baleia ou um onibus - 20PE
+caso sua tecnica de invocador envolva um shikigami simples ela funciona de modo diferente, o custo para invocar o shikigami e sempre seu pe por turno e ele possui apenas uma habilidade podendo ser algo como um estomago para carregar armas ou uma capacidade de curar usando energia reversa e assim como shikigamis normais caso ele morra levara 24 horas para ser invocado novamente, testes realizados com esse shikigami usa as pericias do dono dele e diferente dos demais shikigamis e ele e pequeno
 
-    o custo tambem pode variar caso o objeto ou ser invocado tenha propriedades especiais
+FICHA:
+PV 5 + PRE | 1 + PRE por nivel
+defesa: 10 + PRE
 
-* habilidade de especialista
+tambem pode haver o caso de sua tecnica focar em invocar objetos que nao necesserariamente sao armas, nestes casos considere o tamanho e massa do objeto para o custo de sua invocacao veja a tabela:
 
-    este e um caso de tecnica um pouco mais complicado de se escrever uma formula para balancear ja que literalmente e a classe com o maior leque de opcoes do sistema, por conta disso deixe para balancear as habilidades de especialista sempre ao lado do mestre
+o custo tambem pode variar caso o objeto ou ser invocado tenha propriedades especiais
 
-* habilidade de manipulador
+## habilidade de especialista
 
-    para manipular algo e necessario primeiro embuir o que sera manipulado (isto deve ser por contato direto de energia ou toque) e depois manter (normalmente sustentada) caso tenha a subclasse de emissao consegue manipular em uma area maior ou tornar a duracao como cena ao invez de sustentada, caso manipule armas tente usar como referencia a maldicao sanciente de ordem paranormal RPG
+este e um caso de tecnica um pouco mais complicado de se escrever uma formula para balancear ja que literalmente e a classe com o maior leque de opcoes do sistema, por conta disso deixe para balancear as habilidades de especialista sempre ao lado do mestre
 
-    ao manipular seres vivos as coisas mudam um pouco pois o que ira ser manipulado consegue resistir, nestes casos o alvo realiza um teste e caso falhe voce pode manipular-lo, neste caso a narrativa e a mecanica de sua tecnica irao interferir em o quanto voce consegue manipular seu alvo mas por padrao uma tecnica de manipulador nao consegue controlar a energia amaldicoada de seu alvo e apenas controla seu fisico, existe o caso da tecnica de manipulacao do cla owari que possibilita o controle da energia amaldicoada do alvo da tecnica, tambem existem casos onde ao invez de controlar o fisico do alvo controla sua mente, algo que e quase impossivel e ninguem fez isso ate hoje e manipular a alma de alguem, devido as dificuldades de conseguir fazer alguem ser pego pela tecnica os manipuladores normalmente fazem uso execissivo de condicoes ou apelam bastante pra expansao de dominio
+- habilidade de manipulador
 
-    o custo de PE das tecnicas de manipulacao pode ser afetado pela massa, quantidade ou resistencia a manipulacao dos alvos da tecnica, manipular uma pessoa na maioria dos casos e mais custoso do que manipular algo com o mesmo peso e tamanho
+  para manipular algo e necessario primeiro embuir o que sera manipulado (isto deve ser por contato direto de energia ou toque) e depois manter (normalmente sustentada) caso tenha a subclasse de emissao consegue manipular em uma area maior ou tornar a duracao como cena ao invez de sustentada, caso manipule armas tente usar como referencia a maldicao sanciente de ordem paranormal RPG
 
-* habilidade de emissao
+  ao manipular seres vivos as coisas mudam um pouco pois o que ira ser manipulado consegue resistir, nestes casos o alvo realiza um teste e caso falhe voce pode manipular-lo, neste caso a narrativa e a mecanica de sua tecnica irao interferir em o quanto voce consegue manipular seu alvo mas por padrao uma tecnica de manipulador nao consegue controlar a energia amaldicoada de seu alvo e apenas controla seu fisico, existe o caso da tecnica de manipulacao do cla owari que possibilita o controle da energia amaldicoada do alvo da tecnica, tambem existem casos onde ao invez de controlar o fisico do alvo controla sua mente, algo que e quase impossivel e ninguem fez isso ate hoje e manipular a alma de alguem, devido as dificuldades de conseguir fazer alguem ser pego pela tecnica os manipuladores normalmente fazem uso execissivo de condicoes ou apelam bastante pra expansao de dominio
 
-    devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
+  o custo de PE das tecnicas de manipulacao pode ser afetado pela massa, quantidade ou resistencia a manipulacao dos alvos da tecnica, manipular uma pessoa na maioria dos casos e mais custoso do que manipular algo com o mesmo peso e tamanho
 
-    caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao 
+- habilidade de emissao
+
+  devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
+
+  caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao
 
 ### CONDICOES DA TECNICA
 
@@ -169,18 +173,18 @@ normalmente o mestre cria a tecnica inexplorada para o jogador pois ja que o per
 
 caso o jogador tente criar a tecnica inexplorada diversos cuidados devem ser tomados pois se ele tiver 100% do controle sobre o que sera a tecnica inexplorada ele pode criar o que quiser, desde uma tecnica para fazer um combo quebrado ou algo apelao como copiar outras tecnicas, mais um motivo para deixar a criacao da tecnica inexplorada pro mestre...
 
-* MECANICA
+- MECANICA
 
-    mecanicamente falando uma tecnica inexplorada fornece um novo conceito a sua tecnica ou uma segunda tecnica  
-    amaldicoada mas em todos os casos o feiticeiro tem um leque de habilidades mais amplo, em alguns casos a  
-    tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original  
-    com a classe dela mas pode combinar a tecnica inexplorada com suas classes
+  mecanicamente falando uma tecnica inexplorada fornece um novo conceito a sua tecnica ou uma segunda tecnica  
+   amaldicoada mas em todos os casos o feiticeiro tem um leque de habilidades mais amplo, em alguns casos a  
+   tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original  
+   com a classe dela mas pode combinar a tecnica inexplorada com suas classes
 
-    por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao  despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo  especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
+  por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
 
 ## Tabela Balanciamento
 
-este arquivo deve ser usado para balancear as estasticas de uma tecnica, para criar uma tecnica e necessario  validar duas coisas: o consumo de PE e as condicoes impostas, as condicoes podem reduzir o custo de PE ou aumentar o poder de fogo de uma tecnica, antes era usado como base os rituais de ordem agora use essa tabela, as tecnicas sao divididas em niveis e cada nivel e desbloqueado a cada 4 niveis de NEX (a cada 20% BEX)  
+este arquivo deve ser usado para balancear as estasticas de uma tecnica, para criar uma tecnica e necessario validar duas coisas: o consumo de PE e as condicoes impostas, as condicoes podem reduzir o custo de PE ou aumentar o poder de fogo de uma tecnica, antes era usado como base os rituais de ordem agora use essa tabela, as tecnicas sao divididas em niveis e cada nivel e desbloqueado a cada 4 niveis de NEX (a cada 20% BEX)  
 vale lembrar que esta tabela e apenas uma base de balanceamento e nao uma regra fixa e de mesma forma caso jogaqdores tentem usar-la para criar habilidades absurdas que irao quebrar o jogo o mestre tem palavra final para definir limites para as tecnicas criadas, por exemplo uma tecnica de 34d10 duracao cena alcance toque ja e considerado uma tecnica apelativa pois muitos pontos foram gastos no mesmo efeito criando uma tecnica desbalanceada, para tornar as tecnicas criadas mais balanceadas algumas regras devem ser seguidas:
 
 ### MARGEM DE DANO TOTAL
@@ -199,34 +203,34 @@ como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de esc
         LAM - o efeito so pode ser acumulado uma quantidade de vezes igual o nivel da tecnica
         NLA - o efeito nao pode ser acumlado
 
-* nivel 1 (4PE)
+- nivel 1 (4PE)
 
         20 pontos
         margem de dano: 10/50
 
-* nivel 2 (8PE)
+- nivel 2 (8PE)
 
         40 pontos
         margem de dano: 60/100
 
-* nivel 3 (12PE)
+- nivel 3 (12PE)
 
         60 pontos
         margem de dano: 110/200
 
-* nivel 4 (16PE)
+- nivel 4 (16PE)
 
         80 pontos
         margem de dano: 210/300
 
-* nivel 5 (20PE)
+- nivel 5 (20PE)
 
         100 pontos
         margem de dano: 310/500
 
 ### EFEITOS
 
-* execucao:
+- execucao:
 
         completa: -5 pontos
         padrao: 0 pontos
@@ -236,32 +240,32 @@ como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de esc
         livre: 15 pontos
         mais de uma rodada: -5 pontos para cada rodada que permaneceu conjurando
 
-* alcance:
+- alcance:
 
         pessoal: -5 pontos
         toque: 0 pontos
         curto: 2 pontos e dobra para cada passo adicional, 4 para medio 8 para longo 16 para extremo
 
-* area de efeito:
+- area de efeito:
 
         1 ponto pára cada cubo 1.5m lado
         2 pontos para cada 3m de area esferica
         2 pontos para cada 6m de area circular
 
-* duracao:
+- duracao:
 
         instantanea: 0 pontos
         quantidade de rodadas: 2 pontos para cada rodada de duracao
         sustentada: 8 pontos
         ate ser descarregada: 16 po
 
-* dano:
+- dano:
 
         quantidade de dados de dano - 1 ponto para cada dado de dano   | resistido reduz dano pela metade
-        tipo de dado: o valor do dado representa uma quantidade de pontos, o d6 vale 6 pontos, o d12 vale 12 pontos e  
+        tipo de dado: o valor do dado representa uma quantidade de pontos, o d6 vale 6 pontos, o d12 vale 12 pontos e
         o d20 vale 20 pontos
 
-* buffs:
+- buffs:
 
         +1 acao de movimento: 12 po
         +1 acao padrao: 24 padrao
@@ -271,33 +275,32 @@ como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de esc
         +1 mult crit 16 po
         30PV temporarios
 
-* debuff:
+- debuff:
 
         vulneravel: 6 po | resistido anula
         fatigado: 12 po | resistido reduz efeito pra vulneravel
         enjoado: 12 po | resistido anula
         debilitado: 20 po | resistido reduz para fatigado
-        atordoado: 20 po | 
+        atordoado: 20 po |
         -2 em ataque 3 po
         -5 em ataque 8 po
         -5 RD: 8po
         desloca o alvo em qualquer direcao 3m 4po
         desloca o alvo em qualquer direcao vertical 6m 4po
 
-* utilitarios:
+- utilitarios:
 
         se deslocar +3m em qualquer direcao: 2 po
         teletransporta-se 3m: 4po
         se deslocar +6m verticalmente em qualquer direcao: 2po
         reducao de 1P: 5po
 
-* limitacoes:
+- limitacoes:
 
         a habilidade so pode ser usada uma vez por cena: -8po
 
+- ACERTO E RESISTENCIA
 
-* ACERTO E RESISTENCIA 
-
-        da mesma forma que um ataque e realizado existe uma forma do inimigo receber menos dano ou simplesmente nao receber o ataque as   
-        tecnicas tambem devem dar uma chance do inimigo nao receber o ataque podendo ser uma rolagem de ataque ou exigir um teste de  
+        da mesma forma que um ataque e realizado existe uma forma do inimigo receber menos dano ou simplesmente nao receber o ataque as
+        tecnicas tambem devem dar uma chance do inimigo nao receber o ataque podendo ser uma rolagem de ataque ou exigir um teste de
         resistencia do inimigo ou ate mesmo ambos, tudo depende da narrativa e efeitos escolhidos
