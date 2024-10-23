@@ -32,11 +32,7 @@ pre-requisito: erguer barreoras
 
 ## arquiteto do paranormal
 
-voce passa a poder conjurar uma quantidade de barreiras de uma so vez igual um valor 3 x INT
-
-## ferramentas extendidas
-
-aumenta em um passo o alcance de conjuracao de suas barreiras
+voce passa a poder conjurar uma quantidade de barreiras de uma so vez igual um valor 3 x INT, alem disso pode as conjurar em alcance medio em vez de curto
 
 ## mover barreiras
 
@@ -46,10 +42,6 @@ pre-requisito: erguer barreiras
 ## barreira resistente
 
 todas suas barreiras tem RD aumentado em +5, caso possua afinidade este bonus vai para +10 pre-requisito: erguer barreiras
-
-## barreiras flutuantes
-
-suas barreiras agora nao precisam mais de uma superficie para serem conjuradas ou movidas
 
 ## barreira amplificada
 
