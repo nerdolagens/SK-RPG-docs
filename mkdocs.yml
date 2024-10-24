@@ -58,3 +58,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/iurilugao01
+markdown_extensions:
+  - attr_list
+  - md_in_html
