@@ -20,4 +20,4 @@ como ja se deve imaginar para usar itens de grua especial e necessario muita hab
 
 ## Amplificador de Arquimedes
 
-![Amplificador de Arquimedes](/assets/img/amplificador.jpg)
+![Amplificador de Arquimedes](../../assets/img/amplificador.jpg)
