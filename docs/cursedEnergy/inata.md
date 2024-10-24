@@ -13,19 +13,19 @@ para se criar uma tecnica e necessario definir o seu conceito e suas capacidades
 
 a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar e definir qual sera a habilidade dessa classe envolvendo o ceonceito da tecnica, se for bem explorada uma unica habilidade pode ser usada para varios propositos diferentes, veja uma descricao breve das classes:
 
-## habilidade de aprimorador
+### habilidade de aprimorador
 
 esta classe e completamente diferente da classe de transmutador mas na pratica pode ser facilmente confundida mas diferente dela, aprimoradores sao drasticamente afetados pelo ambiente a um ponto que uma simples chuva pode mudar completamente o rumo do combate para um aprmorador, a aprimoracao permite uma melhoria ou uma fortificacao de algo, vale lembrar que nao e possivel controlar aquilo que e aprimorado podendo apenas controlar a potencia da aprimoracao
 
 existem casos onde uma subclasse de aprimorador pode ser escolhida cuja sua habilidade seja aprimorar a propria tecnica, por exemplo uma tecnica de transmutacao de eletricidade com subclasse de aprimoracao de eletricidade, quando este for o caso a tecnica recebe um buff geral pro que se condiz com o aprimoramento mas de forma resumida, se for dano aumenta em +10, se for um bonus em algum tipo de teste, defesa ou RD recebe +5, se for um bonus de deslocamento aumenta em +6m e por fim se for um bonus na DT ela aumenta em +2
 
-## habilidade de transmutador
+### habilidade de transmutador
 
 a classe mais simples e ao mesmo tempo a com maior capacidade de ser explorada para surpreender a todos devido a sua grande variedade, consiste em transformar uma coisa em outra podendo ser a propria energia amaldicoada do feiticeiro ou materia fisica do ambiente, por padrao coisas feitas da energia amaldicoada de alguem sao controlaveis por ela
 
 existe um truque dentro da tecnica de transmutacao que transformam a energia amaldicoada do conjurador em algo onde a energia nao e transformada ate o momento exato do ataque, como a energia amaldicoada em sua forma pura so pode ser enxergada usando percepcao paranormal um personagem que sofra um ataque usando esse truque pode receber-lo desprevenido
 
-## habilidades de conjuracao:
+### habilidades de conjuracao:
 
 este tipo de tecnica recebeu um espaco especial na homebrew por ser um tipo de tecnica que se comporta de uma forma muito diferente das demais, uma tecnica de conjuracao envolver conjurar algo como uma espada ou uma arma como ja foi falado, para balancear uma habilidade de conjuracao 2 coisas devem ser consideradas, o conceito da conjuracao ira definir o que vai ser conjurado, podendo ser um shikigami simples ou objetos fisicos como armas, caso a conjuracao seja de arma seu tamanho e categoria influenciam no custo, veja as tabelas abaixo:
 
@@ -46,64 +46,71 @@ este tipo de tecnica recebeu um espaco especial na homebrew por ser um tipo de t
         Enorme: Elefante ou um caminhao - 16PE
         Colossal: baleia ou um onibus - 32PE
 
-este e o caso de uma invocacao de arma com uma tecnica que consiste invocar uma grande variedade de armas, caso sua tecnica seja do tipo que invoca apenas uma arma especifica voce recebe 1CP padrao para as habilidades de invocacao, caso sua quantidade de invocacoes tambem seja 1 voce recebe +1CP
+este e o caso de uma invocacao de conjuracao de objetos com uma tecnica que consiste invocar uma grande variedade de armas, e possive criar uma condicao onde voce pode apenas invocar um objeto especifico issso reduz em 2PE seu custo de conjuracao, e caso haja outra condicao em que apenas um objeto por vez pode ser conjurado seu custo e reduzido em 2PE tambem (essas duas condicoes podem se acumular)
 
-a conversao de CP para armas invocadas funciona de um modo um pouco diferente, cada 1CP equivale uma modificacao, voce tambem pode realizar um contrato com um demonio para que esta arma seja amaldicoada
+caso voce invoque objetos muito grandes que demandem muita energia voce pode parcelar o gasto de energia amaldicoada com base no seu pe por turno, dessa forma sera possivel usar uma tecnica que consome 10PE tendo pe por turno 5 levando 2 rodadas para conjurar
 
-caso sua tecnica de invocador envolva um shikigami simples ela funciona de modo diferente, o custo para invocar o shikigami e sempre seu pe por turno e ele possui apenas uma habilidade podendo ser algo como um estomago para carregar armas ou uma capacidade de curar usando energia reversa e assim como shikigamis normais caso ele morra levara 24 horas para ser invocado novamente, testes realizados com esse shikigami usa as pericias do dono dele e diferente dos demais shikigamis e ele e pequeno
+caso sua tecnica de invocador envolva um shikigami simples ela funciona de modo diferente, o custo para invocar o shikigami e sempre seu pe por turno e ele possui apenas uma habilidade simples como armazenamento de itens, aplicar condicoes ou causar dano, o shikigami simles tem a seguinte ficha:
 
-FICHA:
-PV 5 + PRE | 1 + PRE por nivel
-defesa: 10 + PRE
+- FICHA:
 
-tambem pode haver o caso de sua tecnica focar em invocar objetos que nao necesserariamente sao armas, nestes casos considere o tamanho e massa do objeto para o custo de sua invocacao veja a tabela:
+        PV 5 + PRE | 1 + PRE por nivel
+        defesa: 15 + PRE
+        resistencias: PRE
+        tamanho: pequeno
+        deslocamento: 9m 
 
-o custo tambem pode variar caso o objeto ou ser invocado tenha propriedades especiais
+por padrao tecnicas de conjuracao de shikigamis simples conjuram apenas um shikigami especifico por vez e seguem as mesmas regras dos shikigamis normais
 
-## habilidade de especialista
+### habilidade de especialista
 
-este e um caso de tecnica um pouco mais complicado de se escrever uma formula para balancear ja que literalmente e a classe com o maior leque de opcoes do sistema, por conta disso deixe para balancear as habilidades de especialista sempre ao lado do mestre
+a classe mais imprevisivel e com o maior leque de opcoes de habilidades, qqualquer habilidade de tecnica que nao se encaixe em nenhuma das outras 5 classes e uma habilidade de especialista mas isso nao significa que uma habilidade de especialista pode ser qualquer coisa, por eeemplo a tecnica de copia de yuta e uma tecnica especialista, mas a primeira viista a tecnica do mahoraga tambem seria especialista quanto na verdade ela seria aprimorador
 
-- habilidade de manipulador
+### habilidade de manipulador
 
-  para manipular algo e necessario primeiro embuir o que sera manipulado (isto deve ser por contato direto de energia ou toque) e depois manter (normalmente sustentada) caso tenha a subclasse de emissao consegue manipular em uma area maior ou tornar a duracao como cena ao invez de sustentada, caso manipule armas tente usar como referencia a maldicao sanciente de ordem paranormal RPG
+uma classe que assim como a aprimorador pode ser drasticamente influenciada pelo ambiente, consiste em embuir sua energia em algo para controlar e manipular podendo ser pessoas,objetos e ate mesmo espiritos amaldicoados, vale lembrar que manipuladores nao criam ou fortificam aquilo que eles controlam por isso manipuladores dependem totalmente de algo para manipular
 
-  ao manipular seres vivos as coisas mudam um pouco pois o que ira ser manipulado consegue resistir, nestes casos o alvo realiza um teste e caso falhe voce pode manipular-lo, neste caso a narrativa e a mecanica de sua tecnica irao interferir em o quanto voce consegue manipular seu alvo mas por padrao uma tecnica de manipulador nao consegue controlar a energia amaldicoada de seu alvo e apenas controla seu fisico, existe o caso da tecnica de manipulacao do cla owari que possibilita o controle da energia amaldicoada do alvo da tecnica, tambem existem casos onde ao invez de controlar o fisico do alvo controla sua mente, algo que e quase impossivel e ninguem fez isso ate hoje e manipular a alma de alguem, devido as dificuldades de conseguir fazer alguem ser pego pela tecnica os manipuladores normalmente fazem uso execissivo de condicoes ou apelam bastante pra expansao de dominio
+um adendo e que caso sua tecnica envolva manipular seres deve ser necessario uma condicao de falha ou um jeito viavel do alvo escapar, um ser controlado por uma tecnica de manipulador pode escapar com facilidade se a energia amaldicoada do feiticeiro manipulador for expulsa de seu corpo
 
-  o custo de PE das tecnicas de manipulacao pode ser afetado pela massa, quantidade ou resistencia a manipulacao dos alvos da tecnica, manipular uma pessoa na maioria dos casos e mais custoso do que manipular algo com o mesmo peso e tamanho
+### habilidade de emissao
 
-- habilidade de emissao
+devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
 
-  devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
+caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao
 
-  caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao
+## Condicoes e restricoes
 
-### CONDICOES DA TECNICA
+nesse mundo existe uma forca maior invisivel como a gravidade chamada de equilibrio que e o que da as mesmas chances pros humanos, demonios e maldicoes para que haja uma balanca de poder no mundo, por conta disso e possivel tornar uma habilidade mais poderosa impondo fraquezas nela ou melhor, condicoes
 
-dentro do universo desse rpg as condicoes sao vistas como um jeito de voce criar uma fraqueza em sua propria tecnica para que o equilibrio a torne mais forte, em termos mecanicos as condicoes deixam sua tecnica mais dificil de ser usada mas em troca disso ela recebe um aumento de poder sem a necessidade de pagar mais PE, mas por nem todos serem iguais algumas condicoes afetam mais uma pessoa do que outra, logo uma mesma condicao pode dar beneficios diferentes para duas pessoas
+apos criar uma tecnica e definir suas habilidades voce pode definir condicoes ou restricoes para seu uso, as condicoes sao algo que deve ser feito e se nao for feito a tecnica ira falhar e as restricoes sao algo que sua tecnica nao pode fazer, uma mesma tecnica pode ter condicoes que afetam certas habilidades e outras nao porem os bonus fornecidos pelas condicoes sao passados apenas para as tecnicas que sao afetadas por elas
 
-para facilitar tudo as condicoes sao ranquedas de fraca a perigosa, quanto mais dificil for atender as condicoes mais CP (condition points) ela forncece, os CPs podem ser convertidos por beneficios como dano, efeitos, etc, vale lembrar tambem que quando uma habilidade recebe uma condicao todas as tecncias derivadas dessa condicao herdam as mesmas condicoes e mesma quantidade de CP mas nao necessariamente os mesmos beneficios, veja a tabela de condicao:
+quanto mais uma condicao ou uma restricao limitar sua tecnica mais poderosa ela se torna, porem certas condicoes sao mais faceis de serem concluidas por certas pessoas e mais dificeis por outras, por conta disso o balanceamento de condicoes requer a opniao do mestre mas a princippio voce pode balancear elas se perguntando: Sera que isso me atrapalha? e o quanto isso me atrapalha? a forca de uaa condicao pode ser definida numa escala de 1 a 10 e em alguns casos mais extremos pode ultrapassar o 10, veja alguns exemplos abaixo
 
-condicao fraca | algo facil de se executar | 0.5CP
-condicao media | algo moderado | 1CP
-condicao forte | algo que pode ser perigoso | 2CP
-condicao perigosa | algo que pode te matar ou trazer grandes maleficios | 5CP
+- minha tecnica so ira funcionar se eu estiver ouvindo musica, forca 3
+- minha tecnica so funciona se o inimigo nao olhar pra mim, forca 5
+- minha tecnica so funciona durante a noite, forca 8
+- para conjurar minha tecnica eu preciso orar por uma hora, forca > 10
 
-quando as condicoes nao sao atendidas sua tecncia simplesmente nao funciona porem voce pode trocar isso por algo como: "se a condicao nao for atendida eu morro" isso ira tornar a condicao mais perigosa voce tambem pode aplicar restricoes na sua tecnica, nao para tornar-la mais forte e sim para ficar mais barata de se usar, as restricoes seguem os mesmos padroes das condicoes
-
-algumas tecnicas podem possuir um conceito muito complexo ou apelao e acabam sendo muito custosas ou depedendo de condicoes para funcionar como por exemplo uma tecnica para copiar outras ou a manipulacao de vetores da familia ambrosius
-
-veja a tabela de conversao de pontos, os efeitos podem ser acumulados mas como ja foi dito antes nesse arquivo tente nao quebrar o sistema com condicoes apelonas
-
-    +1d em dano | 0.5CP | aumento de efeito     | 1 a 3CP
-    +1 na DT    | 1CP   | aumento de duracao    | 1 a 5CP
-    +2 ou +5    | 1 a 3CP | aumento de area ou alcance | 2CP
-
-nao e possivel prever ou escrever todos os efeitos que da pra aumentar com condicoes, estes sao apenas para ter uma referencia mas como ja foi dito antes nao quebre o sistema acumulando condicoes voce tambem pode inventar seus proprios efeitos adicionais por condicoes
+uma caracteristica importante sobre as condicoes e que elas podem ser adicionadas a qualquer momento como acao livre e quantas o portador da tecnica quiser (ou aguentar) porem depois que uma condicao e adicionada ela nao pode mais ser removida
 
 ## Evolução de Tecnicas
 
+assim como seu personagem fica mais forte subindo de nivel sua tecnica tambem fica, veja abaixo os ganhos de evolucao de tecnica
+
+        NEX 25% - tecnica despertada. voce desperta e sua tecnica inata e pode criar-la
+        NEX 50% - tecnica aprimorada. sua tecnica se torna mais poderosa
+        NEX 75% - escolha entre expansao de dominio ou tecnica inexplorada
+        NEX 99% - tecnica maxima. o auge que uma tecnica inata consegue chegar
+
+### Tecnica aprimorada
+
+apos atingir certo nivel sua tecnica inata ira evoluir para tecnica aprimorada, quando isso acontecer voce ira adicionar duas classes de tecnica para sua tecnica inata que estao proximas de sua classe principal, por exemplo se suas classe for aprimoradora voce pode pegar de subclasse emissao e transmutacao ou fazer uma sequencia pegando transmutacao e conjuracao ou emissao e manipulacao, dessa forma expandindo ainda mais o leque de habilidades de sua tecnica
+
+os unicos jeitos de adquirir subclasses de tecnica sao com aprimoramento de tecnica e algumas habilidades
+
 ### Expansao de dominio
+
+o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao 
 
 uma expansao de dominio possui 2 efeitos, a amplificacao da tecnica que torna todos os ataques da tecnica mais fortes ou mais efetivos, o acerto garantido faz com que o ataque nunca falhe e tenha 100% de chance de acerto, por conta disso tecnicas usadas dentro da expansao que necessitem de uma rolagem do usuario ou do alvo deixam de ser necessarias, a fins de balanceamento o mestre pode impor que alguns ataques necessitem de uma rolagem, porem existem metodos de contra-atacar o acerto garantido, exemplos de efeitos da amplificacao de tecnica, escolha 3 efeitos de amplifcacao abaixo para sua expansao:
 
