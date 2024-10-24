@@ -82,13 +82,13 @@ uma trilha focada no uso de shikigamis nao e possivel ter versatilidade com essa
 voce se aperfeicoou em desenvolver suas habilidades jujutsu aprimorando sua propria tecnica e na aplicacao de energia amaldicoada
 
     NEX 10% dedicacao
-    voce recebe 2 pontos de compra em todas as suas tecnicas (esses pontos contam como condicao e permitem quebra de margem) e recebe um poder de subtecnica a sua escolha 
+    voce recebe 5 pontos de compra em todas as suas tecnicas (esses pontos contam como condicao e permitem quebra de margem)
 
     NEX 40% tecnica avancada
-    voce recebe uma classe de tecnica e um poder de subtecnica a sua escolha
+    voce recebe uma classe de tecnica adicional a sua escolha respeitando as regras da tecnica aprimorada
 
     NEX 65% mestre feiticeiro
-    voce pode criar e usar tecnicas de um nivel acima do nivel atual de tecnica, alem disso recebe um poder de subtecnica adicional
+    voce pode criar e usar tecnicas de um nivel acima do nivel atual de tecnica, 
     
     NEX 99% dominio absoluto
-    alem de receber um poder de subtecnica assim como todas as outras habilidades dessa trilha seu refinamento de energia chega a outro patamar, recebe +15 em ocultismo
+    seu refinamento de energia chega a outro patamar, recebe +15 em ocultismo
