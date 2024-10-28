@@ -28,6 +28,7 @@ nav:
           - Kokusen: "cursedEnergy/subtecnicas/kokusen.md"
           - Tecnica de barreira: "cursedEnergy/subtecnicas/barreira.md"
           - Subtecnicas gerais: "cursedEnergy/subtecnicas/gerais.md"
+      - Taticas jujutsu: "cursedEnergy/taticas.md"
 
 theme:
   name: material
@@ -38,7 +39,7 @@ theme:
     - navigation.tracking
     - navigation.footer
     - navigation.tabs
-
+    - content.code.copy
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
