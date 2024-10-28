@@ -11,12 +11,13 @@ Caso voce imponha uma condicao onde o ataque especial nao pode ser usado para da
 
 ## poderes
 
-    - Apetite Exotico
+- Apetite Exotico
+
         voce pode consumir uma pocao que esteja em suas maos como acao livre ao invez de padrao
 
-    - Rolar
-        sempre que esquivar de um ataque voce pode se deslocar 1.5m em qualquer direcao, nao e possivel
-        rolar se estiver com a condicao lento
+  - Rolar
+
+        sempre que esquivar de um ataque voce pode se deslocar 1.5m em qualquer direcao, nao e possivel rolar se estiver com a condicao lento
 
 ## trilhas
 
