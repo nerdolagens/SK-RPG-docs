@@ -11,8 +11,9 @@ caso voce imponha uma condicao onde o ataque especial nao pode ser usado para da
 
 ## poderes
 
-    apetite exotico
-    voce pode consumir uma pocao que esteja em suas maos como acao livre ao invez de padrao
+- apetite exotico
+    
+        voce pode consumir uma pocao que esteja em suas maos como acao livre ao invez de padrao
 
     rolar
     sempre que esquivar de um ataque voce pode se deslocar 1.5m em qualquer direcao, nao e possivel
