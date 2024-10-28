@@ -11,16 +11,16 @@ caso voce imponha uma condicao onde o ataque especial nao pode ser usado para da
 
 ## poderes
 
-    apetite exotico
-    voce pode consumir uma pocao que esteja em suas maos como acao livre ao invez de padrao
+    - apetite exotico
+        voce pode consumir uma pocao que esteja em suas maos como acao livre ao invez de padrao
 
-    rolar
-    sempre que esquivar de um ataque voce pode se deslocar 1.5m em qualquer direcao, nao e possivel
-    rolar se estiver com a condicao lento
+    -rolar
+        sempre que esquivar de um ataque voce pode se deslocar 1.5m em qualquer direcao, nao e possivel
+        rolar se estiver com a condicao lento
 
 ## trilhas
 
-* Gladiador Amaldiçoado
+- Gladiador Amaldiçoado
 
 voce gastou uma parte do seu treinamento para aperfeicoar sua tecnica inata assim a combinando com seu estilo de combate
 
@@ -36,7 +36,7 @@ voce gastou uma parte do seu treinamento para aperfeicoar sua tecnica inata assi
     NEX 99% - combatente eficiente
     apos entender que voce nao tem tanta energia amaldicoada quanto os demais feiticeiros voce aperfeicoou a eficiencia e custo de sua energia amaldicoada, o custo de todas as suas tecnicas e reduzido em -2PE nao podendo ser reduzido a 0 alem disso ignora condicao ruim e terrivel e sempre que entrar em exaustao de tecnica o numero de rodadas e sempre -1
 
-* Mudanças no Operações Especiais
+- Mudanças no Operações Especiais
 
 como a trilha do operacoes especiais e uma merda eu fiquei com do de quem usa ela e dei uns buffs
 
@@ -49,7 +49,7 @@ como a trilha do operacoes especiais e uma merda eu fiquei com do de quem usa el
     NEX 65% - Surto de Adrenalina
     Uma vez por rodada, você pode gastar 3 PE para realizar uma ação padrão ou de movimento adicional.
 
-* Mudanças No Tropa de Choque
+- Mudanças No Tropa de Choque
 
 Buffs mais que merecidos na trilha já do OP Tropa de Choque
 
