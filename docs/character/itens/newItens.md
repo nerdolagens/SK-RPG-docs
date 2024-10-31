@@ -1,44 +1,24 @@
 ## ARMAS
 
-    pistola de dardos | armas simples
-    peso 1, categoria I
-    uma pistola similar a uma pistola comum mas invez de balas concenvionais em seu cartucho, ela carrega dardos embainhados de venenos ou efeitos diversos
-
     manoplas | armas pesadas
-    peso 3, categoria III
-    dano - 19/x3 impacto
+    peso 3 | categoria III
+    dano +2d ! 19/x3 impacto
 
     Um par de manoplas pesadas. Adiciona 2D de Dano aos seus golpes com seus socos, e eles agora são letais. Combater com duas armas permite utilizar uma manopla em cada mão.
 
-## MUNICOES
-
-    pacote de dardos (efeito)
-    peso 1, categoria I
-    um cartucho com 10 dardos, veja os efeitos dos dardos e escolha um
-
 ## modificacoes para armas:
 
-* contrato de invocacao (+1 na categoria)
+- escondivel (+1 na categoria)
 
-        permite invocar a arma pagando 1PE e uma acao livre, a arma passa a ter peso 0 e voce tambem pode esconder-la no outro lado com uma acao completa
+        uma arma que e dificil de esconder dcom essa modificacao passa a ser facilmente escondivel, por exemplo uma acha com essa modificacao poderia ser dobrada, uma metralhadora poderia ter o formato de uma maleta
 
-* canalizadora (+1 na categoria)
+- emissora (+1 na categoria)
 
         pode pagar 2PE para imbuir energia na arma ao realizar um ataque e pagar 2PE para receber +5 nessa rolagem de ataque, tambem como acao livre pode transformar todo o dano da arma em dano paranormal
 
-## modificacoes para protecoes:
-
-* protetora ( +1 na categoria)
-
-        aumenta o RD paranormal em +5
-
-* violenta ( +1 na categoria)
-
-        causa 2d8 paranormal em qualquer ser que o ataque corpo a corpo
-
 ## outras modificacoes:
 
-* contencao fantasma (mochila militar, +1 na categoria)
+- contencao fantasma (mochila militar, +1 na categoria)
 
         e possivel modificar uma mochila militar para que os itens dentro dela nao sejam detectados por tecnicas de deteccao amaldicoadas, escolha uma quantidade de itens do seu inventario igual ao limite de espacos de sua mochila para ficarem ocultos obviamente esse item nao pode ser detectado por tecnicas de deteccao amaldicoadas
 
@@ -78,7 +58,7 @@
     veneno (peso 1, categoria I) - 5 pontos de toxicidade
     nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
 
-* pocoes aprimoradas:
+- pocoes aprimoradas:
 
         pocao de restauracao aprimorada(peso 1, categoria II) - 2 pontos de toxicidade
         recebe cura acelera 25 por 3 rodadas, caso use fora de comabte recupera 75PV automaticamente
@@ -98,7 +78,7 @@
         veneno aprimorado (peso 1, categoria II) - 10 pontos de toxicidade
         nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
 
-* pocoes avancadas
+- pocoes avancadas
 
         pocao de restauracao avancada(peso 1, categoria III) - 3 pontos de toxicidade
         recebe cura acelera 35 por 3 rodadas, caso use fora de comabte recupera 105PV automaticamente
@@ -118,7 +98,7 @@
         veneno avancado (peso 1, categoria II) - 15 pontos de toxicidade
         nao e exatamente uma pocao benefica, foi feita justamente para envenenaralguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
 
-* OUTROS:
+- OUTROS:
 
         dardos ou flechas
         os dardos sao um metodo alternativo de aplicar efeitos de pocoes mas por ter uma dosagem mais baixa tem efeitos mais fracos, voce pode usar os dardos em uma pistola de dardos, um pacote de dardos carrega uma quantidade de dardos seguindo a mecanica do conta balas (pistola de dardos carrega 10 dardos) voce tambem pode aplicar os efeitos em flechas ou virotes
