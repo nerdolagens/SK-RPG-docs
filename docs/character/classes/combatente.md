@@ -1,6 +1,6 @@
 A classe que mais se destaca em combate tendo mais vida mais defesa e normalmente mais dano que as demais mas perde em outros pontos
 
-## Mudanças
+## MUDANÇAS
 
 
 

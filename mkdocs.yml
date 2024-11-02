@@ -39,6 +39,7 @@ theme:
     - navigation.tracking
     - navigation.footer
     - navigation.tabs
+    - navigation.tabs.sticky
     - content.code.copy
   palette:
     # Palette toggle for light mode
