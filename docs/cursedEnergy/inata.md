@@ -250,7 +250,6 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
         movimento 6 po
         reacao: 10 po
         livre: 20 po
-        mais de uma rodada: -5 po para cada rodadada que permanecer conjurando 
 
 - alcance:
 
@@ -306,7 +305,6 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
 - limitacoes:
 
         a habilidade so pode ser usada uma vez por cena: -8po
-        caso seja atacado enquanto conjura a tecncica ela se desfaz e perde os PE | -16po
 
 - ACERTO E RESISTENCIA
 
