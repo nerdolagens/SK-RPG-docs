@@ -174,7 +174,9 @@ amplificar um dominio traz uma parte do dominio inato para a realidade, isso faz
 
 ### Tecnica Inexplorada
 
-uma tecnica inexplorada consiste em algo presente no talento inato de um feiticeiro jujutsu mas que ele nunca soube ou so desenvolveu agora, existem dois tipo de tecnica inexplorada a primeira envolve uma funcao adicional de sua tecnica, uma especie de atualizacao do conceito dela ou uma mudanca no comportamento, por exemplo uma tecnica amaldicoada que envolva a capacidade de criar explosoes poderia ter uma tecnica inexplorada que permita explodir o tempo, o segundo tipo envolve uma segunda tecnica amaldicoada completamente diferente da tecnica original do feiticeiro, por exemplo um feiticeiro que desperotu uma tecnica de fogo mas tem um ancestral que possuia uma tecnica de tempo, este feiticeiro pode ter como tecnica inexplorada algo que envolva o tempo, sobre qual das duas sera a tecnica inexplorada vai a criterio do mestre ou do jogador sobre o que combinar mais
+uma tecnica inexplorada consiste em algo presente no talento inato de um feiticeiro jujutsu mas que ele nunca soube ou so desenvolveu agora, existem dois tipo de tecnica inexplorada a primeira envolve uma funcao adicional de sua tecnica, uma especie de atualizacao do conceito dela ou uma mudanca no comportamento 
+
+por exemplo uma tecnica amaldicoada que envolva a capacidade de criar explosoes poderia ter uma tecnica inexplorada que permita explodir o tempo, o segundo tipo envolve uma segunda tecnica amaldicoada completamente diferente da tecnica original do feiticeiro, por exemplo um feiticeiro que desperotu uma tecnica de fogo mas tem um ancestral que possuia uma tecnica de tempo, este feiticeiro pode ter como tecnica inexplorada algo que envolva o tempo, saiba que tambem e possivel combinar a tecnica inata com a tecnica inexplorada, sobre qual das duas sera a tecnica inexplorada vai a criterio do mestre ou do jogador sobre o que faz mais sentido
 
 normalmente o mestre cria a tecnica inexplorada para o jogador pois ja que o personagem nao tem conhecimento de sua tecnica inexplorada fica mais interessante pro roleplay o mestre criar ela sem o conhecimento do jogador, claro isto nao e uma regra apenas uma recomendacao, o jogador tambem pode dar ideias para ter aquilo que ele julga combinar mais
 
@@ -182,129 +184,129 @@ caso o jogador tente criar a tecnica inexplorada diversos cuidados devem ser tom
 
 - MECANICA
 
-  mecanicamente falando uma tecnica inexplorada fornece um novo conceito a sua tecnica ou uma segunda tecnica  
-   amaldicoada mas em todos os casos o feiticeiro tem um leque de habilidades mais amplo, em alguns casos a  
-   tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original  
-   com a classe dela mas pode combinar a tecnica inexplorada com suas classes
+  mecanicamente falando uma tecnica inexplorada fornece um novo conceito a sua tecnica ou uma segunda tecnica amaldicoada mas em todos os casos o feiticeiro tem um leque de habilidades mais amplo, em alguns casos a tecnica inexplorada pode fornecer uma classe de tecnica nova mas voce nao pode combinar sua tecnica original com a classe dela mas pode combinar a tecnica inexplorada com suas classes
 
-  por exemplo: eu tenho uma tecnica da classe aprimorador e peguei transmutador e emissor mas entao despertei uma tecnica inexplorada do tipo especialista, eu nao posso criar uma habilidade do tipo especialista com base na minha tecnica original mas posso criar habilidades do tipo aprimorador, emissor e transmutador com base na minha tecnica inexplorada
-
-## Tabela Balanciamento
+## Tabela Balancamento
 
 este arquivo deve ser usado para balancear as estasticas de uma tecnica, para criar uma tecnica e necessario validar duas coisas: o consumo de PE e as condicoes impostas, as condicoes podem reduzir o custo de PE ou aumentar o poder de fogo de uma tecnica, antes era usado como base os rituais de ordem agora use essa tabela, as tecnicas sao divididas em niveis e cada nivel e desbloqueado a cada 4 niveis de NEX (a cada 20% BEX)  
-vale lembrar que esta tabela e apenas uma base de balanceamento e nao uma regra fixa e de mesma forma caso jogaqdores tentem usar-la para criar habilidades absurdas que irao quebrar o jogo o mestre tem palavra final para definir limites para as tecnicas criadas, por exemplo uma tecnica de 34d10 duracao cena alcance toque ja e considerado uma tecnica apelativa pois muitos pontos foram gastos no mesmo efeito criando uma tecnica desbalanceada, para tornar as tecnicas criadas mais balanceadas algumas regras devem ser seguidas:
+
+vale lembrar que esta tabela e apenas uma base de balanceamento e nao uma regra fixa e de mesma forma caso jogadores tentem usar-la para criar habilidades absurdas que irao quebrar o jogo o mestre tem palavra final para definir limites para as tecnicas criadas, por exemplo uma tecnica de 34d10 duracao cena alcance toque ja e considerado uma tecnica apelativa pois muitos pontos foram gastos no mesmo efeito criando uma tecnica desbalanceada, para tornar as tecnicas criadas mais balanceadas e mais interessantes algumas regras devem ser seguidas:
 
 ### MARGEM DE DANO TOTAL
 
-as margens de dano sao importantes para evitar que jogadores criem tecnicas extremamente focadas em causar dano pois isso pode desbalancear o rpg, em cada nivel esta escrito a margemde dano que uma tecnica pode causar, vale lembrar que a margem pode ser extrapolada caso sejam gastos pontos que venham de condicoes, tambem vale ressaltar que a margem de dano engloa todo o dano que a tecnica ira causar desde que ela foi conjurada, por exeemplo uma tecnica de nivel 1 sem condicoes que cause de 20 de dano so poderia durar 2 rodadas pois a margem maxima e 60
+as margens de dano sao importantes para evitar que jogadores criem tecnicas extremamente focadas em causar dano pois isso pode desbalancear o rpg, em cada nivel esta escrito a margemde dano que uma tecnica pode causar, vale lembrar que a margem pode ser extrapolada caso sejam gastos pontos que venham de condicoes, tambem vale ressaltar que a margem de dano engloba todo o dano que a tecnica ira causar desde que ela foi conjurada, por exemplo uma tecnica de nivel 1 sem condicoes que cause de 20 de dano so poderia durar 2 rodadas pois a margem maxima e 60
 
 ### RESISTENCIA E ACERTO
 
-como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de escapar dele, isso poder ser feito usando uma rolagem de ataque ou um teste de resistencia rolado pelo alvo da habilidade ou ambos, qual sera usada ira depender da narrativa e efeitos escolhidos na tecnica, em alguns casos a tecnica pode nao ter teste de resistencia e nem rolagem de acerto como o caso de uma armadilha nao notada pelo inimigo, vale lembrar que ma mesma tecnica com multiplos efeitos pode exigir mais de um teste de rsistencia e qual teste sera usado ira depender da narrativa e funcionamento da tecnica inata
+como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de escapar dele, isso poder ser feito usando uma rolagem de ataque ou um teste de resistencia rolado pelo alvo da habilidade ou ambos, qual sera usada ira depender da narrativa e efeitos escolhidos na tecnica, em alguns casos a tecnica pode nao ter teste de resistencia e nem rolagem de acerto como o caso de uma armadilha nao notada pelo inimigo, vale lembrar que na mesma tecnica com multiplos efeitos pode exigir mais de um teste de rsistencia e qual teste sera usado ira depender da narrativa e funcionamento da tecnica inata
 
 ### PARAMETROS
 
-        caso um efeito tenha um desses parametroos ele devera seguir certas regras
-        RP - resistido reduz efeito/dano pela metade
-        RN - resistido anula
-        LAM - o efeito so pode ser acumulado uma quantidade de vezes igual o nivel da tecnica
-        NLA - o efeito nao pode ser acumlado
+caso um efeito tenha um desses parametroos ele devera seguir certas regras
 
-- nivel 1 (4PE)
+- AC - requer um teste para acertar
+- AC/RP - requer um teste para acertar ou um teste de resistencia do inimigo reduz efeitos/dano pela metade
+- RP - resistido reduz efeito/dano pela metade
+- RN - resistido anula
+- LAM - o efeito so pode ser acumulado uma quantidade de vezes igual o nivel da tecnica
+- NLA - o efeito nao pode ser acumlado
+
+### niveis
+
+estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, cada nivel fornece uma quantidade de pontos que voce ira converter-los nas estatisticas que estao mais abaixo, sua margem de dano total e o NEX minimo para usar-lo, voce desbloqueia os niveis de tecnica conforme sobe de NEX
+
+- nivel 1 (4PE) NEX 5%
 
         20 pontos
-        margem de dano: 10/50
+        margem de dano total: 10/50
 
-- nivel 2 (8PE)
+- nivel 2 (8PE) NEX 25%
 
         40 pontos
-        margem de dano: 60/100
+        margem de dano total: 60/100
 
-- nivel 3 (12PE)
+- nivel 3 (12PE) NEX 45$
 
         60 pontos
-        margem de dano: 110/200
+        margem de dano total: 110/200
 
-- nivel 4 (16PE)
+- nivel 4 (16PE) NEX 65%
 
         80 pontos
-        margem de dano: 210/300
+        margem de dano total: 210/300
 
-- nivel 5 (20PE)
+- nivel 5 (20PE) NEX 85%
 
         100 pontos
-        margem de dano: 310/500
+        margem de dano total: 310/500
 
-### EFEITOS
+### estatisticas da tecnica
 
 - execucao:
 
-        completa: -5 pontos
-        padrao: 0 pontos
-        ataque: 0 pontos
-        movimento 5 pontos
-        reacao: 10 pontos
-        livre: 15 pontos
-        mais de uma rodada: -5 pontos para cada rodada que permaneceu conjurando
+        completa: -5 po
+        padrao: 0 po
+        ataque: 3 po
+        movimento 6 po
+        reacao: 10 po
+        livre: 20 po
+        mais de uma rodada: -5 po para cada rodadada que permanecer conjurando 
 
 - alcance:
 
-        pessoal: -5 pontos
-        toque: 0 pontos
-        curto: 2 pontos e dobra para cada passo adicional, 4 para medio 8 para longo 16 para extremo
+        pessoal: -5 po
+        toque: 0 po
+        curto: 3 po e dobra para cada passo adicional
 
 - area de efeito:
 
-        1 ponto pára cada cubo 1.5m lado
-        2 pontos para cada 3m de area esferica
-        2 pontos para cada 6m de area circular
+        1 ponto para cada cubo 1.5m lado
+        2 po para cada 3m de area esferica
 
 - duracao:
 
-        instantanea: 0 pontos
-        quantidade de rodadas: 2 pontos para cada rodada de duracao
-        sustentada: 8 pontos
-        ate ser descarregada: 16 po
+        instantanea: 0po
+        quantidade de rodadas: 3po para cada rodada de duracao
+        sustentada: 8po
+        ate ser descarregada: 16po
 
 - dano:
 
-        quantidade de dados de dano - 1 ponto para cada dado de dano   | resistido reduz dano pela metade
-        tipo de dado: o valor do dado representa uma quantidade de pontos, o d6 vale 6 pontos, o d12 vale 12 pontos e
-        o d20 vale 20 pontos
+        quantidade de dados: 1po para cada dado de dano | AC/RP
+        tipo de dado: paga em pontos pelo valor do dado (d10 gasta 10po)
 
 - buffs:
 
-        +1 acao de movimento: 12 po
-        +1 acao padrao: 24 padrao
-        +5 em uma pericia 8 po
-        +5 RD 8 po
-        +1 margem ameaca 5 po
-        +1 mult crit 16 po
-        30PV temporarios
+        +1 acao de movimento: 12po | LAM
+        +1 acao padrao: 20po  | NLA
+        +2 em testes de atributo: 8po | LAM
+        +5 em uma pericia: 8po | LAM
+        +5 RD: 8po | LAM
+        +1 margem ameaca: 5po | LAM
+        +1 mult crit: 16po | NLA
+        30PV temporarios: 8po | LAM
 
 - debuff:
 
-        vulneravel: 6 po | resistido anula
-        fatigado: 12 po | resistido reduz efeito pra vulneravel
-        enjoado: 12 po | resistido anula
-        debilitado: 20 po | resistido reduz para fatigado
-        atordoado: 20 po |
-        -2 em ataque 3 po
-        -5 em ataque 8 po
-        -5 RD: 8po
-        desloca o alvo em qualquer direcao 3m 4po
-        desloca o alvo em qualquer direcao vertical 6m 4po
+        vulneravel: 6po | RN
+        fatigado: 12po | RP(vulneravel)
+        enjoado: 12po | RN
+        debilitado: 20po | RP(fatigado)
+        atordoado: 20po | RN
+        -2 em ataque 3po | LAM
+        -5 RD: 8po | LAM
+        empurra o alvo 3m: 3po | RP
 
 - utilitarios:
 
-        se deslocar +3m em qualquer direcao: 2 po
-        teletransporta-se 3m: 4po
-        se deslocar +6m verticalmente em qualquer direcao: 2po
-        reducao de 1P: 5po
+        se deslocar 3m em qualquer direcao: 3po
+        teletransporta-se 9m: 12po | LAM
+        reducao de 1PE: 10po 
 
 - limitacoes:
 
         a habilidade so pode ser usada uma vez por cena: -8po
+        caso seja atacado enquanto conjura a tecncica ela se desfaz e perde os PE | -16po
 
 - ACERTO E RESISTENCIA
 
