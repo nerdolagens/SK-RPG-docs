@@ -306,8 +306,4 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
 
         a habilidade so pode ser usada uma vez por cena: -8po
 
-- ACERTO E RESISTENCIA
 
-        da mesma forma que um ataque e realizado existe uma forma do inimigo receber menos dano ou simplesmente nao receber o ataque as
-        tecnicas tambem devem dar uma chance do inimigo nao receber o ataque podendo ser uma rolagem de ataque ou exigir um teste de
-        resistencia do inimigo ou ate mesmo ambos, tudo depende da narrativa e efeitos escolhidos

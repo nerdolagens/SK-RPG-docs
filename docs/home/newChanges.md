@@ -44,3 +44,15 @@ os pontos de exaustao so podem ser perdidos atravez de descanso (energia reversa
 - quebrado: condicao atingida por estar com menos que 50% da integridade, toda cura fornecida por energia reversa e reduzida pela metade
 
 - asfixiado: e macanica de sufocamento foi alterada nesse sistema, uma pessoa normal aguenta ficar asfixiada 1 + VIG rodadas, quando esse numero passar do limite a pessoa deve rolar um teste de fortitude DT 15(se falhar entra em morrendo), caso passe aguenta ficar mais uma rodada, voce aguenta ficar uma quantidade maxima de rodadas asfixiado igual ao dobro de seu VIG + 2 e a DT vai aumentando em +5 para cada rodada que se passar quuando atingir esse numero voce morre instantaneamente
+
+## nova regra de PE por turno
+
+ja deu pra notar que nesse sistema tem muito mais coisa que consome PE na sua ficha e mais jeitos de aumentar a quantidade de PE do seu personagem, devido a isso o limite de gasto de PE por turno foi mudado para 5 + seu nivel de personagem, em outras palavras um personagem de NEX 50% so pode no maximo gastar 15PE em uma rodada 
+
+e agora o limite de PE engloba a rodada inteira o que significa que caso voce tenha batido seu PE por turno mas voce queria usar uma habilidade de reacao para aumentar sua esquiva gastando PE voce nao iria poder fazer isso, apenas na proxima rodada
+
+## mudancas na conjuracao de tecnicas
+
+agora a duracao cena nao existe mais para as magias como no ordem, ao invez disso existe a duracao "ate ser descarregada" tecnicas que tenham essa duracao permanecem ativas ate seu conjurador dissipar-las ou se afastarem 90 metros, caso tenha a classe de emissao a energia nao se desfaz indepedente da distancia
+
+porem voce so pode conjurar uma quantidade de tecnicas com esse tipo de duracao igual seu nivel de tecnicas, por exemplo se tiver acesso a tecnicas de nivel 3 pode conjuirar e manter 3 tecncias com esse tipo de duracoa ao mesmo tempo, caso tenha a classe de emissao esse numero aumenta em +2
