@@ -36,5 +36,3 @@ dentro do diretorio assets ficam algumas coisas externas ao conteudo mas que faz
 se deu erro ao clonar o repositorio o por que voce e burro e nao sabe configurar git e SSh, mete o erro do console no gpt e se vira
 
 se tudo deu certo ate aqui parabens! voce tem o repositorio local do projeto e tudo que precisa pra comecar a trabalhar sem ser remunerado, suba suas alteracoes diretamente pra branch main e nao se esqueca de atualizar seu repositorio local antes de comecar a escrever, se voce nao sabe fazer isso por que caralhos vc ta aqui?
-
-LINK DO SITE: https://nerdolagens.github.io/SK-RPG-docs
