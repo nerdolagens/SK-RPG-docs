@@ -112,18 +112,15 @@ os unicos jeitos de adquirir subclasses de tecnica sao com aprimoramento de tecn
 
 o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao da essencia de seu personagem e um ambiente onde sua tecnica atinge outro nivel
 
-uma expansao de dominio possui 2 efeitos, a amplificacao da tecnica que torna todos os ataques da tecnica mais fortes ou mais efetivos, o acerto garantido faz com que o ataque nunca falhe e tenha 100% de chance de acerto, por conta disso tecnicas usadas dentro da expansao que necessitem de uma rolagem do usuario ou do alvo deixam de ser necessarias, a fins de balanceamento o mestre pode impor que alguns ataques necessitem de uma rolagem, porem existem metodos de contra-atacar o acerto garantido, exemplos de efeitos da amplificacao de tecnica, escolha 3 efeitos de amplifcacao abaixo para sua expansao:
+uma expansao de dominio possui 2 efeitos, o acerto garantido e um efeito especial, para criar uma expansao de dominio voce deve definir o que sera seu efeito especial e tambem suas condicoes (caso tenha) veja a lista de efeitos especiais:
 
-+4d de dano do mesmo tipo
-pode ignorar uma condicao
-uma vez por rodada reduz o custo de acao de uma tecnica para livre
-reduz em -4PE o custo das tecnicas (nao pode reduzir para menos do que 1)
-area da barreira dobrada
-propriedade adicional
-reduz a gesticulacao para simples e elimina a entoacao
-a penalidade de exaustao e reduzida em 2 rodadas, este nao e reduzido em dominios incompletos
-recebe +10 em testes de confronto de dominio
-o custo da sua expansao e -5PE (incompleta: -3PE)
+- amplificacao de tecnica
+
+  sua tecnica se torna mais poderosa dentro de sua expansao de dominio de forma geral, o dano causado pela tecnica aumenta em +20, defesa e RD aumentam em +10, habilidades    de movimento fornecem +12m
+
+- amplificacao fisica
+
+  amplificando a energia amaldicoada do proprio corpo suas capacidades fisicas aumentam de forma drastica em sua expansao de dominio, recebe +10 em ataque, dano, defesa,      RD, seu deslocamento aumenta em 6m, e recebe uma acao padrao adicional por turno
 
 o que e acerto garantido?
 voce pode pensar no acerto garantido de uma expansao como um missil teleguiado, a barreira da expansao detecta as posicoes dos alvos dentro dela atravez da energia amaldicoada de tal forma que e impossivel errar um ataque da tecnica, em termos mecanicos o acerto garantido fornece 100% de chance de que o ataque vai funcionar, se o inimigo tem que rolar um teste para resistir a sua tecnica agora ele sofre fracasso automatico, se voce deve rolar um teste de ocultismo para acertar um ataque voce tem sucesso automatico, vale lembrar que o acerto garantido so serve para a tecnica inata
