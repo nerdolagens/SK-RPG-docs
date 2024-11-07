@@ -2,14 +2,14 @@
 
 a energia amaldicoada sozinha nao serve pra muita coisa, por conta disso e necessario uma tecnica que e uma forma de se moldar a energia para sua aplicacao para as demais situacoe que podem variar das mais simples como uma tatica jujutsos ate as mais complexas tecnicas inatas
 
-para se criar uma tecnica e necessario definir o seu conceito e suas capacidades, o conceito pode ser literalmente qualquer coisa mas uma tecnica nao pode fazer nada que esteja fora de seu conceito mas existem formas do conceito de uma tecnica evoluir que voce encontrara mais abaixo desse arquivo, alem do conceito e necessario definir as classes de uma tecnica e isso e feito atravez das classes de tecnica que sao nessa ordem:
+para se criar uma tecnica inata e necessario definir o seu conceito e suas capacidades, o conceito pode ser literalmente qualquer coisa mas uma tecnica nao pode fazer nada que esteja fora de seu conceito mas existem formas do conceito de uma tecnica evoluir que voce encontrara mais abaixo desse arquivo, alem do conceito e necessario definir as classes de uma tecnica e isso e feito atravez das classes de tecnica que sao nessa ordem:
 
-        1. Aprimorador
-        2. Transmutador
-        3. Conjurador
-        4. Especialista
-        5. Manipulador
-        6. Emissor
+1. Aprimorador
+2. Transmutador
+3. Conjurador
+4. Especialista
+5. Manipulador
+6. Emissor
 
 a ordem dessas classes e importante para Tecnica aprimorada, veja mais abaixo da pagina mas a principio essas classes irao definir o que sua tecnica e capaz ou nao de fazer, por exemplo uma tecnica com manipulacao de chamas alheias pode manipular e controlar chamas mas nao poderia criar chamas e vice versa para uma tecnica de transmutacao de chamas, ao criar uma tecnica inata voce alem de escolher um conceito voce deve escolher uma classe para iniciar e definir qual sera a habilidade dessa classe envolvendo o ceonceito da tecnica, se for bem explorada uma unica habilidade pode ser usada para varios propositos diferentes, veja uma descricao breve das classes:
 
@@ -74,7 +74,7 @@ um adendo e que caso sua tecnica envolva manipular seres deve ser necessario uma
 
 ### habilidade de emissao
 
-devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata o alcance de todas as suas tecncias aumenta em um passo, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
+devido as caracteristicas da classe de emissao ela nao adiciona um novo leque de habilidades como as outras classes, ao adicionar a classe de emissao em sua tecnica inata suas tecnicas nao se dissipam indepedente da distancia (isso nao aumenta o alcance da tecnica so aumenta a distancia da sua liberacao de energia) e voce pode conjurar e manter duas tecnicas a mais com duracao ate ser descarregada, habilidades de alcance pessoal que tenham como alvo voce podem ser usadas em outras pessoas e em alguns casos a duracao da tecnica pode ser aumentada ao invez do alcance
 
 caso crie uma tecnica que tenha como classe principal a emissao ela pode simplesmente nao funcionar sem as outras classes, por conta disso e bem dificil ter uma tecnica que tenha como classe prncipal a emissao
 
@@ -97,10 +97,10 @@ uma caracteristica importante sobre as condicoes e que elas podem ser adicionada
 
 assim como seu personagem fica mais forte subindo de nivel sua tecnica tambem fica, veja abaixo os ganhos de evolucao de tecnica
 
-        NEX 25% - tecnica despertada. voce desperta e sua tecnica inata e pode criar-la
-        NEX 50% - tecnica aprimorada. sua tecnica se torna mais poderosa
-        NEX 75% - escolha entre expansao de dominio ou tecnica inexplorada
-        NEX 99% - tecnica maxima. o auge que uma tecnica inata consegue chegar
+- NEX 25% - tecnica despertada. voce desperta e sua tecnica inata e pode criar-la
+- NEX 50% - tecnica aprimorada. sua tecnica se torna mais poderosa
+- NEX 75% - escolha entre expansao de dominio ou tecnica inexplorada
+- NEX 99% - tecnica maxima. o auge que uma tecnica inata consegue chegar
 
 ### Tecnica aprimorada
 
@@ -110,7 +110,7 @@ os unicos jeitos de adquirir subclasses de tecnica sao com aprimoramento de tecn
 
 ### Expansao de dominio
 
-o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao 
+o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao da essencia de seu personagem e um ambiente onde sua tecnica atinge outro nivel
 
 uma expansao de dominio possui 2 efeitos, a amplificacao da tecnica que torna todos os ataques da tecnica mais fortes ou mais efetivos, o acerto garantido faz com que o ataque nunca falhe e tenha 100% de chance de acerto, por conta disso tecnicas usadas dentro da expansao que necessitem de uma rolagem do usuario ou do alvo deixam de ser necessarias, a fins de balanceamento o mestre pode impor que alguns ataques necessitem de uma rolagem, porem existem metodos de contra-atacar o acerto garantido, exemplos de efeitos da amplificacao de tecnica, escolha 3 efeitos de amplifcacao abaixo para sua expansao:
 
