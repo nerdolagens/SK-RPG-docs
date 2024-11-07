@@ -110,7 +110,9 @@ os unicos jeitos de adquirir subclasses de tecnica sao com aprimoramento de tecn
 
 ### Expansao de dominio
 
-o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao da essencia de seu personagem e um ambiente onde sua tecnica atinge outro nivel
+o dominio inato e a representacao da alma do individuo, um ambiente que fez parte de sua vida ou que o representa, uma expansao de dominio e a materializacao da essencia de seu personagem e um ambiente onde sua tecnica atinge outro nivel, voce pode expandir seu dominio como uma acao livre ou reacao uma vez por rodada astando 20PE, todos os seres denro de um raio de 9m sao pegos no seu dominio e colocados dentro de um espaco que pode ter no maximo um raio de 36m e nao podem sair de la, voce decide o posicionamento dos seres afetaods e como o ambiente dentro da expansao se comporta (nao e possivel criar ambienes desfavoraveis pro inimigo como uma prisao onde ele fica preso a nao ser que isso seja a habilidade da tecnica) caso a barreira seje destruida pelo lado de fora todos dentro do dominio sao "ejetados" pra fora, a barreira de um dominio possui 10 x PE por turno PV e so pode ser atacada pelo lado de fora, por padrao expansoes de dominio duram 8 rodadas
+
+caso voce falhe em expandir seu dominio ou ele se encerre por algum motivo voce entra em exaustao de tecnica, durante 4 rodadas voce nao podera usar sua tecnica inata
 
 uma expansao de dominio possui 2 efeitos, o acerto garantido e um efeito especial, para criar uma expansao de dominio voce deve definir o que sera seu efeito especial e tambem suas condicoes (caso tenha) veja a lista de efeitos especiais:
 
@@ -120,18 +122,32 @@ uma expansao de dominio possui 2 efeitos, o acerto garantido e um efeito especia
 
 - amplificacao fisica
 
-  amplificando a energia amaldicoada do proprio corpo suas capacidades fisicas aumentam de forma drastica em sua expansao de dominio, recebe +10 em ataque, dano, defesa,      RD, seu deslocamento aumenta em 6m, e recebe uma acao padrao adicional por turno
+  amplificando a energia amaldicoada do proprio corpo suas capacidades fisicas aumentam de forma drastica em sua expansao de dominio, recebe +10 em ataque, dano, defesa, RD, seu deslocamento aumenta em 6m, e recebe uma acao padrao adicional por turno
+
+- ignora condicao
+
+  dentro de sua expansao sua tecnica pode ignorar uma condicao poderosa ou um conjunto de condicoes fracas
+
+- dominio ampliado
+
+  a barreira do seu dominio atinge um raio de 36m e o lado de dentro pode ter um espaco com um raio de 90m, caso use a variante dominio sem barreiras o raio de alcance do dominio passa a ser 90m
 
 o que e acerto garantido?
 voce pode pensar no acerto garantido de uma expansao como um missil teleguiado, a barreira da expansao detecta as posicoes dos alvos dentro dela atravez da energia amaldicoada de tal forma que e impossivel errar um ataque da tecnica, em termos mecanicos o acerto garantido fornece 100% de chance de que o ataque vai funcionar, se o inimigo tem que rolar um teste para resistir a sua tecnica agora ele sofre fracasso automatico, se voce deve rolar um teste de ocultismo para acertar um ataque voce tem sucesso automatico, vale lembrar que o acerto garantido so serve para a tecnica inata
 
-caso uma expansao de dominio nao possua acerto garantido a DT de suas tecncias e +5 e o conjurador recebe +5 em testes de acerto com ocultismo
+para tornar o jogo mais divertido e menos quebrado alguns tipos de efeitos so podem ser aplicados com acerto garantido apenas uma vez depois de expandir o dominio como atordoamento, agarrao, etc, pois se toda rodada for usado um efeito desse calibre o combate comeca a ficar desbalanceado, e chato
 
-vale lembrar que e possivel escolher os beneficios de amplificacao duas vezes depois de criar a expansao de dominio nao sera possivel trocar esses bonus
+#### variantes de dominio
 
-um dominio incompleto nao possui acerto garantido e apenas 50% dos beneficios dos efeitos citados, um dominio incompleto e mais fraco que um dominio normal porem pode ser usado por feiticeiros mais fracos e apresenta menos penalidades (pre-requisito: tatica jujutsu dominio incompleto)
+- Dominio incompleto
 
-dominios de 0.2 segundos tem a vantagem de nao apresentar riscos para o usuario e de terem uma conjuracao tao rapida que acerta seus alvos antes deles levantarem uma tecnica anti-dominio, porem sua duracao e reduzida para instantanea sendo possivel apenas um unico ataque (pre-requisito: tatica jujutsu dominio de 0.2 segundos)
+  um metodo usado por feiticeiros menos experientes para expandir um dominio de forma mais barata, uma vez por rodada voce pode gastar uma acao livre ou uma reacao e 10PE para expandir seu dominio de forma incompleta mas ele perde sua barreira e seu acerto garantido afetando os seres que estejam a 9m de distancia durando 4 rpdadas, caso saia de dentro do dminio ele e dissipado, ao encerrar seu dominio incompleto voce fica 2 rodadas sem a tecnica
+
+  voce pode usar dominio incompleto 3 niveis antes de liberar expansao de dominio e se for veterano em ocultismo, vale lembrar que voce so pode usar dominio incompleo se voce decidir pegar expansao de dominio ao invez de tecnica inexplorada
+
+- Dominio instataneo
+
+em troca da duracao de seu dominio voce o expande de uma forma tao rapida que 
 
 dominios sem barreiras sao o apice das expansoes de dominio por isso so os feiticeiros mais poderosos podem as usar, por nao possuirem barreira e possivel fugir delas com facilidade mas ainda contam com o acerto garantido e podem ser usadas dentro de outros dominios ja que nao tem barreira e tem seu alcance aumentado para 90m e ainda por cima dominios sem barreiras podem superar tecnicas anti-dominio como o dominio simples (pre-requisito: tatica jujutsu dominio sem barreira)
 
