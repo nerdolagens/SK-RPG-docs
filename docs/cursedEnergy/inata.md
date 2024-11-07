@@ -147,7 +147,15 @@ para tornar o jogo mais divertido e menos quebrado alguns tipos de efeitos so po
 
 - Dominio instataneo
 
-em troca da duracao de seu dominio voce o expande de uma forma tao rapida que 
+  em troca da duracao de seu dominio voce o expande de uma forma tao rapida que se torna impossivel de se defender com tecnicas como o dominio simples, voce pode gastar uma acao completa e 10PE para conjurar um dominio instantaneo e lancar uma tecnica que consuma ate uma acao padrao com os efeitos de amplificacao e acero gaantido atingindo todos em um raio de 9m em torno de voce, nao e possivel usar reacoes contra um dominio instantaneo e voce nao recebe exaustao de tecnica por usar-lo, o gasto de PE do dominio instantaneo nao conta no PE por turno contando apenas o gasto de PE da tecnica conjurada
+
+voce pode usar dominio incompleo caso possa conjurar uma expansao de dominio completa e 
+
+- Dominio sem barreiraS
+
+  o auge das expansoes de dominio, pouquissimos feiticeiros ja foram capazes desse feito, consiste em expandir seu deminio sem o uso de uma barreira, dominio sem barreira nao podem ser destruidos de nenhuma forma e o raio do dominio interno passa a ser o alcance da expansao de dominio, expandir um dominio sem sua barreira aumenta o custo em +10PE e aumenta o numero de rodadas de exaustao em 2
+
+  para usar dominio sem barreiras e necessario ser expert em ocultismo, ter acesso a tecnicas de nivel 5 e poder conjurar um dominio completo 
 
 dominios sem barreiras sao o apice das expansoes de dominio por isso so os feiticeiros mais poderosos podem as usar, por nao possuirem barreira e possivel fugir delas com facilidade mas ainda contam com o acerto garantido e podem ser usadas dentro de outros dominios ja que nao tem barreira e tem seu alcance aumentado para 90m e ainda por cima dominios sem barreiras podem superar tecnicas anti-dominio como o dominio simples (pre-requisito: tatica jujutsu dominio sem barreira)
 
