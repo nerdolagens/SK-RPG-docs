@@ -223,14 +223,18 @@ como todo sistema de rpg um ataque precisa dar uma chance para um inimigo de esc
 
 ### PARAMETROS
 
-caso um efeito tenha um desses parametroos ele devera seguir certas regras
+os parametros sao regras que devem ser seguidas para montagem da tecncia, caso um efeito tenha um desses parametroos ele devera seguir certas regras
 
 - AC - requer um teste para acertar
-- AC/RP - requer um teste para acertar ou um teste de resistencia do inimigo reduz efeitos/dano pela metade
 - RP - resistido reduz efeito/dano pela metade
+- AC/RP - requer um teste para acertar ou um teste de resistencia do inimigo reduz efeitos/dano pela metade
 - RN - resistido anula
 - LAM - o efeito so pode ser acumulado uma quantidade de vezes igual o nivel da tecnica
-- NLA - o efeito nao pode ser acumlado
+- NLA - o efeito nao pode ser acumulado
+- IST - o efeito so pode ter duracao instantanea
+- NDR - o efeito so pode durar uma rodada
+
+se na descricao do efeito o parametro tiver uma # no final por exemplo LAM# significa que o parametro pode ser ignorado por condicoes
 
 ### niveis
 
@@ -276,19 +280,19 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
 
         pessoal: -5 po
         toque: 0 po
-        curto: 3 po e dobra para cada passo adicional
-
-- area de efeito:
-
-        1 ponto para cada cubo 1.5m lado
-        2 po para cada 3m de area esferica
+        curto: 3 po e dobra para cada passo adicional | LAM
 
 - duracao:
 
         instantanea: 0po
-        quantidade de rodadas: 3po para cada rodada de duracao
-        sustentada: 8po
+        quantidade de rodadas: 3po para cada rodada de duracao | LAM#
+        sustentada: 8po 
         ate ser descarregada: 16po
+
+- area de efeito:
+
+        1 ponto para cada cubo 1.5m lado 
+        2 po para cada 3m de area esferica | LMA
 
 - dano:
 
@@ -299,7 +303,7 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
 
         +1 acao de movimento: 12po | LAM
         +1 acao padrao: 20po  | NLA
-        +2 em testes de atributo: 8po | LAM
+        +2 em testes de um atributo: 8po | LAM
         +5 em uma pericia: 8po | LAM
         +5 RD: 8po | LAM
         +1 margem ameaca: 5po | LAM
@@ -312,16 +316,18 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
         fatigado: 12po | RP(vulneravel)
         enjoado: 12po | RN
         debilitado: 20po | RP(fatigado)
-        atordoado: 20po | RN
+        atordoado: 20po | RN NDR
         -2 em ataque 3po | LAM
         -5 RD: 8po | LAM
-        empurra o alvo 3m: 3po | RP
+        empurra o alvo 3m: 3po | AC/RP IST
+        derruba o alvo: 10po | AC/RP IST
+        agarra o alvo: 20po | AC/RP 
 
 - utilitarios:
 
-        se deslocar 3m em qualquer direcao: 3po
+        se deslocar 3m em qualquer direcao: 3po | IST
         teletransporta-se 9m: 12po | LAM
-        reducao de 1PE: 10po 
+        reducao de 1PE: 10po  
 
 - limitacoes:
 
