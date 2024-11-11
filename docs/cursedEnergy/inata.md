@@ -292,7 +292,7 @@ estes sao os niveis de tecnica usados para determinar a forca de uma tecnica, ca
 - area de efeito:
 
         1 ponto para cada cubo 1.5m lado 
-        2 po para cada 3m de area esferica | LMA
+        2 po para cada 3m de area esferica | LAM
 
 - dano:
 
