@@ -27,76 +27,77 @@
     as pocoes sao um novo jeito dos feiticeiros aumentarem suas proprias capacidades em combate sem ter que recorrer a contratos perigosos ou habilidades amaldicoadas muito custosas, consumir uma pocao requer uma acao padrao
 
     porem as pocoes ainda assim nao sao um metodo tao seguro pois ao ingerir-las em grande quantidade seu corpo comeca a se deteriorar, uma nova condicao foi adicionada chamada "toxicidade" que funciona da seguinte maneira: uma pessoa normal possui nivel de toxicidade maxima igual a 2 + VIG, quando se consome uma pocao voce recebe pontos de toxicidade e caso os pontos atinjam seu limite de toxicidade, voce fica intoxicado recebendo as seguintes penalidades:
-    -enjoado(-2 em todos os testes)
+    -enjoado
+    -fraco
     -dor de cabeca(fica em condicao terrivel pra usar a tecnica)
     -vulneravel e lento(-5 na defesa, RD e -3m no deslocamento)
-    voce ainda consegue tomar pocoes mesmo estando intoxicado, porem caso os pontos de toxicidade atinjam o dobro do seu limite voce sofre um colapso e morre instantaneamente, para cada ponto de toxicidade que passar do seu limite de toxicidade voce fica com -2 em todos testes e -1.5m no deslocamento(nao podendo ser reduzido a 0m)
-
+    voce ainda consegue tomar pocoes mesmo estando intoxicado, porem caso os pontos de toxicidade atinjam o dobro do seu limite voce sofre um colapso e morre instantaneamente, para cada ponto de toxicidade que passar do seu limite de toxicidade voce fica com -2 em todos testes, defesa e RD
     voce perde os pontos de toxicidade tomando medicamento para toxicidade ou ficando uma cena sem consumir pocoes, voce perde 2 pontos de toxicidade apos ficar 1 cena sem consumir pocoes
 
-    por padrao os efeitos das pocoes duram 1 cena
-
-    medicamento para toxicidade (peso 1, categoria I) - remove 2 pontos de toxicidade
+        medicamento para toxicidade (peso 1, categoria I) - remove 2 pontos de toxicidade
 
     veja a lista de pocoes abaixo:
 
-    pocao de restauracao(peso 1, categoria I) - 1 ponto de toxicidade
-    recebe cura acelera 15 por 3 rodadas, caso use fora de combate recupera 45PV automaticamente
+    pocao de restauracao (peso 1, categoria I) - 1 ponto de toxicidade
+    recebe cura acelera 10 por 3 rodadas porem caso sofra dano a cura e encerrada, se usar fora de combate recupera 30PV automaticamente
 
-    pocao de resistencia(peso 1, categoria I) - 1 ponto de toxicidade
-    recebe +5 de RD, e em todos os testes de resistencia ate o final da cena
+    pocao de resistencia (peso 1, categoria I) - 1 ponto de toxicidade
+    recebe +5 de RD e em testes de resistencia ate o final da cena
 
-    pocao de reflexos(peso 1, categoria I) - 1 ponto de toxicidade
-    recebe +5 na defesa
+    pocao de reflexos (peso 1, categoria I) - 1 ponto de toxicidade
+    recebe +5 na defesa  e em reflexos ate o final da cena
 
-    pocao de adrenalina(peso 1, categoria I) - 1 ponto de toxicidade
-    recebe +3m no deslocamento e uma acao de movimento adicional ate o final da cena
+    pocao de adrenalina (peso 1, categoria I) - 1 ponto de toxicidade
+    recebe uma acao padrao adicional por turno por 2 rodadas
 
     pocao de foco(peso 1, categoria I) - 1 ponto de toxicidade
     todas suas DTs aumentam em +3 ate o final da cena
 
-    veneno (peso 1, categoria I) - 5 pontos de toxicidade
-    nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
+    veneno (peso 1, categoria I) - 3 pontos de toxicidade
+    nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca com uma agulha, venca e um teste de agarrao contra um ser e depois venca novamente no teste para aplicar a dose
+
+    plano D (peso 1, categoria I) - 0 pontos de toxicidade
+    uma pocao bem diferente do convencional sendo na realidade um frasco de pilulas com o sirrisinho estampado, desenvolvida por assasinos e espioes pro caso de fossem capturados e interrogados, ao consumir essa pocao voce morre instantaneamente de forma indolor, nao e possivel forcar alguem a tomar essa pocao contra sua vontade e nem envenenar alguem com ela, dizem os boatos que tem gosto de banana
 
 - pocoes aprimoradas:
 
-        pocao de restauracao aprimorada(peso 1, categoria II) - 2 pontos de toxicidade
-        recebe cura acelera 25 por 3 rodadas, caso use fora de comabte recupera 75PV automaticamente
+        pocao de restauracao aprimorada (peso 1, categoria II) - 2 pontos de toxicidade
+        recebe cura acelera 20 por 3 rodadas caso sofra dano a cura e interrompidada, se usar fora de comabte recupera 60PV automaticamente
 
-        pocao de resistencia aprimorada(peso 1, categoria II) - 2 pontos de toxicidade
-        recebe +10 de RD, e em todos os testes de resistenciaate o final da cena
+        pocao de resistencia aprimorada (peso 1, categoria II) - 2 pontos de toxicidade
+        recebe +10 de RD e em testes de resistencia ate o final da cena
 
-        pocao de reflexos aprimorada(peso 1, categoria II) - 2 ponto de toxicidade
-        recebe +10 na defesa
+        pocao de reflexos aprimorada (peso 1, categoria II) - 2 ponto de toxicidade
+        recebe +10 na defesa e em reflexos ate o final da cena
 
-        pocao de adrenalina aprimorada(peso 1, categoria II) - 2 pontos de toxicidade
-        recebe +3m no deslocamento e uma acao padrao adicional ate o final da cena
+        pocao de adrenalina aprimorada (peso 1, categoria II) - 2 pontos de toxicidade
+        recebe uma acao padrao adiicional por turno durante 5 rodadas
 
         pocao de foco aprimorada(peso 1, categoria II) - 2 pontos de toxicidade
         todas suas DTs aumentam em +6 ate o final da cena
 
-        veneno aprimorado (peso 1, categoria II) - 10 pontos de toxicidade
-        nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
+        veneno aprimorado (peso 1, categoria II) - 6 pontos de toxicidade
+        nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca com uma agulha, venca e um teste de agarrao contra um ser e depois venca novamente no teste para aplicar a dose
 
 - pocoes avancadas
 
         pocao de restauracao avancada(peso 1, categoria III) - 3 pontos de toxicidade
-        recebe cura acelera 35 por 3 rodadas, caso use fora de comabte recupera 105PV automaticamente
+        recebe cura acelera 30 por 3 rodadas, caso use fora de combate recupera 90PV automaticamente
 
-        pocao de resistencia avancada(peso 1, categoria II) - 3 pontos de toxicidade
-        recebe +15 de RD, e em todos os testes de resistencia ate o final da cena
+        pocao de resistencia avancada(peso 1, categoria III) - 3 pontos de toxicidade
+        recebe +15 de RD e em testes de resistencia ate o final da cena
 
         pocao de reflexos aperfeicoada(peso 1, categoria III) - 3 ponto de toxicidade
-        recebe +10 na defesa e imunidade a desprevenido
+        recebe +10 na defesa, reflexos e imunidade a desprevenido ate o final da cena
 
         pocao de adrenalina avancada (peso 1, categoria III) - 3 pontos de toxicidade
-        recebe +3m no deslocamento e uma acao padrao e movimento adicional ate o final da cena
+        recebe uma acao padrao adicional por turno ate o final da cena
 
         pocao de foco avancada (peso 1, categoria III) - 3 pontos de toxicidade
         todas suas DTs aumentam em +10 ate o final da cena
 
-        veneno avancado (peso 1, categoria II) - 15 pontos de toxicidade
-        nao e exatamente uma pocao benefica, foi feita justamente para envenenaralguem com toxicidade, um veneno pode ser injetado em alguem a forca atravez de uma agulha atravez de uma manobra de combate
+        veneno avancado (peso 1, categoria II) - 10 pontos de toxicidade
+        nao e exatamente uma pocao benefica, foi feita justamente para envenenar alguem com toxicidade, um veneno pode ser injetado em alguem a forca com uma agulha, venca e um teste de agarrao contra um ser e depois venca novamente no teste para aplicar a dose
 
 - OUTROS:
 
